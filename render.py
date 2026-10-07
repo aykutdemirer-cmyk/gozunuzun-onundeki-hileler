@@ -2,7 +2,7 @@
 Kullanım: python render.py episodes/xx.json cikti.mp4"""
 import subprocess, math, os, re, sys, json, asyncio, tempfile, edge_tts, imageio_ffmpeg
 FF = imageio_ffmpeg.get_ffmpeg_exe()
-VOICE, RATE = os.getenv("TTS_VOICE", "tr-TR-AhmetNeural"), os.getenv("TTS_RATE", "+25%")
+VOICE, RATE = os.getenv("TTS_VOICE", "de-DE-FlorianMultilingualNeural"), os.getenv("TTS_RATE", "+5%")
 EP = json.load(open(sys.argv[1], encoding="utf-8")); OUTF = sys.argv[2]; A = tempfile.mkdtemp()
 from PIL import Image, ImageDraw, ImageFont
 
