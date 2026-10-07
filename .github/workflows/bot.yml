@@ -1,0 +1,47 @@
+name: Telegram Bot
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: telegram-bot
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Mesajları işle
+        id: bot
+        run: |
+          if [ -z "$GEMINI_API_KEY" ]; then echo "GEMINI_API_KEY eksik"; exit 0; fi
+          pip install -q requests
+          python bot.py
+
+      - name: Video üret ve gönder
+        if: steps.bot.outputs.episodes != ''
+        run: |
+          pip install -q pillow edge-tts imageio-ffmpeg
+          mkdir -p out
+          for F in ${{ steps.bot.outputs.episodes }}; do
+            N=out/$(basename "$F" .json).mp4
+            python render.py "$F" "$N" && python send_telegram.py "$N" "$F" \
+              || python -c "import os,requests;requests.post(f'https://api.telegram.org/bot{os.environ[\"TELEGRAM_BOT_TOKEN\"]}/sendMessage',json={'chat_id':os.environ['TELEGRAM_CHAT_ID'],'text':'⚠️ Video üretilemedi: $F'})"
+          done
+
+      - name: Durumu kaydet
+        if: always()
+        run: |
+          git config user.name "shorts-bot"; git config user.email "actions@users.noreply.github.com"
+          git add state episodes 2>/dev/null; git diff --cached --quiet || (git commit -qm "bot: durum güncellendi" && git push -q)
