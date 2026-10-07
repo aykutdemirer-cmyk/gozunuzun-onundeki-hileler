@@ -2,7 +2,7 @@
 Kullanım: python render.py episodes/xx.json cikti.mp4"""
 import subprocess, math, os, re, sys, json, asyncio, tempfile, edge_tts, imageio_ffmpeg
 FF = imageio_ffmpeg.get_ffmpeg_exe()
-VOICE, RATE = os.getenv("TTS_VOICE", "de-DE-FlorianMultilingualNeural"), os.getenv("TTS_RATE", "+5%")
+VOICE, RATE = os.getenv("TTS_VOICE", "de-DE-FlorianMultilingualNeural"), os.getenv("TTS_RATE", "+12%")
 EP = json.load(open(sys.argv[1], encoding="utf-8")); OUTF = sys.argv[2]; A = tempfile.mkdtemp()
 from PIL import Image, ImageDraw, ImageFont
 
@@ -10,20 +10,35 @@ W, H, FPS = 1080, 1920, 30
 B = os.getenv("FONT_BOLD", "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf")
 f = lambda p, s: ImageFont.truetype(p, s)
 
+WORDS = {}
 async def tts():
     for i, sc in enumerate(EP["scenes"]):
-        await edge_tts.Communicate(sc["voice"], VOICE, rate=RATE).save(os.path.join(A, f"s{i}.mp3"))
+        try: c = edge_tts.Communicate(sc["voice"], VOICE, rate=RATE, boundary="WordBoundary")
+        except TypeError: c = edge_tts.Communicate(sc["voice"], VOICE, rate=RATE)
+        ws = []
+        with open(os.path.join(A, f"s{i}.mp3"), "wb") as fh:
+            async for ch in c.stream():
+                if ch["type"] == "audio": fh.write(ch["data"])
+                elif ch["type"] == "WordBoundary": ws.append((ch["offset"] / 1e7, ch["text"]))
+        WORDS[i] = ws
 asyncio.run(tts())
 
+GAP = 0.08
 def dur(p):
     o = subprocess.run([FF, "-i", p], capture_output=True, text=True).stderr
     h, m, x = re.search(r"Duration: (\d+):(\d+):([\d.]+)", o).groups(); return int(h)*3600+int(m)*60+float(x)
 S, L, t0 = [], [], 0
 for i, sc in enumerate(EP["scenes"]):
-    l = dur(os.path.join(A, f"s{i}.mp3")) + 0.2; L.append(l)
+    l = dur(os.path.join(A, f"s{i}.mp3")) + GAP; L.append(l)
     S.append((t0, t0 + l, sc["caption"], sc["voice"], tuple(tuple(c) for c in sc["colors"]), sc.get("graphic", "keyword"), sc.get("keyword", "")))
     t0 += l
 TOTAL = t0
+for i, sc in enumerate(S):
+    ws = WORDS.get(i) or []
+    if not ws:  # yedek: kelimeleri süreye eşit dağıt
+        toks = sc[3].split(); span = (sc[1] - sc[0] - GAP) / max(len(toks), 1)
+        ws = [(k * span, w) for k, w in enumerate(toks)]
+    WORDS[i] = ws
 YEL, WHT = (255, 214, 0), (255, 255, 255)
 
 def ease(t): return 1 - (1 - min(max(t, 0), 1)) ** 3
@@ -59,7 +74,10 @@ def cart(d, x, y, s, fill=0):
 def graphic(d, kind, t, lt, kw=""):
     cx, cy = W // 2, 1080
     if kind == "keyword":
-        r = int(320 * ease(lt / 0.6)); d.ellipse([cx - r, cy - r, cx + r, cy + r], outline=YEL, width=14)
+        r = int(300 * (0.55 + 0.45 * ease(lt / 0.4)) + 14 * math.sin(lt * 6)); d.ellipse([cx - r, cy - r, cx + r, cy + r], outline=YEL, width=14)
+        R = r + 46
+        for q in range(12):  # dönen kesik halka
+            a0 = q * 30 + lt * 60; d.arc([cx - R, cy - R, cx + R, cy + R], a0, a0 + 14, fill=WHT, width=10)
         fs = 150
         while kw and d.textlength(kw, font=f(B, fs)) > 560: fs -= 6
         d.text((cx, cy), kw, font=f(B, fs), fill=WHT, anchor="mm"); return
@@ -126,6 +144,9 @@ def frame(t):
     sc = next(s for s in S if s[0] <= t < s[1]) if t < TOTAL else S[-1]
     st, en, cap, vo, cols, kind, kw = sc; lt = t - st
     im = grad(cols[0], cols[1], t * 0.05); d = ImageDraw.Draw(im)
+    for p in range(26):  # süzülen parçacıklar
+        px = (p * 397 + t * (20 + p % 5 * 12)) % W; py = (H - (p * 733 + t * (60 + p % 7 * 18))) % H; r = 4 + p % 4 * 3
+        c = tuple(min(255, int(v * 0.6 + 100)) for v in cols[0]); d.ellipse([px - r, py - r, px + r, py + r], fill=c)
     # series tag + progress bar
     d.text((W // 2, 130), "GÖZÜNÜZÜN ÖNÜNDEKİ HİLELER", font=f(B, 40), fill=(255, 255, 255, 180), anchor="mm")
     d.rectangle([0, 0, int(W * t / TOTAL), 14], fill=YEL)
@@ -137,16 +158,31 @@ def frame(t):
         col = YEL if i == 0 else WHT
         d.text((W // 2, y0 + i * lh), ln, font=fnt, fill=col, anchor="mm", stroke_width=8, stroke_fill=(0, 0, 0))
     graphic(d, kind, t, lt, kw)
-    # voiceover subtitle box
-    fs = f(B, 46); lines = wrap(d, vo, fs, W - 160)
-    bh = len(lines) * 60 + 50; by = H - 230 - bh
-    d.rounded_rectangle([60, by, W - 60, by + bh], 30, fill=(0, 0, 0))
-    for i, ln in enumerate(lines): d.text((W // 2, by + 55 + i * 60), ln, font=fs, fill=WHT, anchor="mm")
+    # karaoke altyazı: 3'lü kelime grupları, konuşulan kelime sarı
+    ws = WORDS[S.index(sc)]; k = max([j for j, (o, _) in enumerate(ws) if o <= lt] or [0])
+    g0 = (k // 3) * 3; grp = ws[g0:g0 + 3]
+    if grp:
+        fs = 92
+        while d.textlength(" ".join(w for _, w in grp), font=f(B, fs)) > W - 120: fs -= 4
+        x = W // 2 - d.textlength(" ".join(w for _, w in grp), font=f(B, fs)) / 2
+        for j, (o, w) in enumerate(grp):
+            cur = g0 + j == k
+            fz = int(fs * (1 + 0.12 * max(0, 1 - (lt - o) / 0.15))) if cur else fs
+            d.text((x, 1600), w, font=f(B, fz), fill=YEL if cur else WHT, anchor="lm", stroke_width=9, stroke_fill=(0, 0, 0))
+            x += d.textlength(w, font=f(B, fz)) + d.textlength(" ", font=f(B, fs))
+    z = 1 + 0.07 * max(0, 1 - lt / 0.3)  # punch-in yakınlaşma
+    if z > 1.001:
+        cw, ch = int(W / z), int(H / z); im = im.crop(((W - cw) // 2, (H - ch) // 2, (W + cw) // 2, (H + ch) // 2)).resize((W, H))
+    if lt < 0.06 and st > 0: im = Image.blend(im, Image.new("RGB", (W, H), WHT), 0.35)  # geçiş flaşı
     return im
 
 cmd = [FF, "-y", "-loglevel", "error", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-"]
 for i in range(len(S)): cmd += ["-i", os.path.join(A, f"s{i}.mp3")]
-fl = "".join(f"[{i+1}:a]apad=whole_dur={L[i]:.3f}[a{i}];" for i in range(len(S))) + "".join(f"[a{i}]" for i in range(len(S))) + f"concat=n={len(S)}:v=0:a=1,loudnorm=I=-14[a]"
+cuts = [sc[0] for sc in S[1:]]
+cmd += ["-f", "lavfi", "-i", "anoisesrc=d=0.4:c=pink:a=0.5"]
+wh = f"[{len(S)+1}:a]highpass=f=900,lowpass=f=6000,afade=t=in:d=0.12,afade=t=out:st=0.15:d=0.25,volume=0.35,asplit={max(len(cuts),1)}" + "".join(f"[w{j}]" for j in range(max(len(cuts),1))) + ";"
+wh += "".join(f"[w{j}]adelay={int(max(c - 0.15, 0) * 1000)}:all=1[d{j}];" for j, c in enumerate(cuts))
+fl = wh + "".join(f"[{i+1}:a]apad=whole_dur={L[i]:.3f}[a{i}];" for i in range(len(S))) + "".join(f"[a{i}]" for i in range(len(S))) + f"concat=n={len(S)}:v=0:a=1[v];" + "[v]" + "".join(f"[d{j}]" for j in range(len(cuts))) + f"amix=inputs={len(cuts)+1}:normalize=0,loudnorm=I=-14[a]"
 cmd += ["-filter_complex", fl, "-map", "0:v", "-map", "[a]", "-c:v", "libx264", "-pix_fmt", "yuv420p", "-crf", "20", "-preset", "fast", "-c:a", "aac", "-b:a", "192k", "-t", f"{TOTAL:.3f}", OUTF]
 p = subprocess.Popen(cmd, stdin=subprocess.PIPE)
 for i in range(int(TOTAL * FPS)): p.stdin.write(frame(i / FPS).tobytes())
