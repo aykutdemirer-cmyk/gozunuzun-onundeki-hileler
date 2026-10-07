@@ -1,0 +1,151 @@
+{
+ "topic": "Sınırlı Süre Ürün",
+ "scenes": [
+  {
+   "caption": "SADECE\nBU SEZON!",
+   "voice": "Sadece bu sezon! Bu lezzet kaçmaz!",
+   "keyword": "SEZON",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "FOMO",
+   "voice": "Kaçırma korkusu, yani fomo.",
+   "keyword": "FOMO",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "NADİR =\nDEĞERLİ",
+   "voice": "Az bulunan şey bize daha değerli görünür.",
+   "keyword": "NADİR",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "HER YIL\nYİNE GELİR",
+   "voice": "Ama aynı ürün çoğu zaman her yıl yeniden gelir.",
+   "keyword": "YİNE",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SOSYAL MEDYA\nETKİSİ",
+   "voice": "Herkes paylaşınca sen de denemek istersin.",
+   "keyword": "PAYLAŞ",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "FİYAT\nDAHA YÜKSEK",
+   "voice": "Sezonluk ürünler genelde normalinden pahalıdır.",
+   "keyword": "FİYAT",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nKAÇARSA KAÇSIN",
+   "voice": "Çözüm: kaçırırsan ne olur, kendine sor.",
+   "keyword": "SORU",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SEN DENER MİSİN?",
+   "voice": "Sen sezonluk ürünleri dener misin? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Sınırlı Süre Ürün 😳 #shorts",
+ "description": "Sadece bu sezon! Bu lezzet kaçmaz!\n\nÇözüm: kaçırırsan ne olur, kendine sor.\n\n💬 Sen sezonluk ürünleri dener misin? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

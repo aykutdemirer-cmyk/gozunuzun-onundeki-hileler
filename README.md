@@ -1,24 +1,24 @@
 # Gözünüzün Önündeki Hileler — Shorts Otomasyonu
 
-`episodes/` klasörüne yeni bölüm JSON'u eklenince → Ahmet sesiyle seslendirilir → 1080×1920 video render edilir → Telegram'a gönderilir.
+Yapay zekâ servisi gerektirmez. Senaryolar `konular.txt` içinde yazılı; `queue/` klasörü üretim sırasını tutar.
 
-## Kullanım
-- `episodes/` klasörüne yeni `.json` eklemek/güncellemek videoyu **otomatik** üretir.
-- Elle tekrar üretmek için: **Actions → Shorts Üret → Run workflow** ve bölüm dosyasını yaz.
+## Nasıl çalışır
+- **Her gün ~09:47:** kuyruktaki ilk bölüm videoya dönüşür ve Telegram'a gönderilir.
+- **Telegram botu:** bota herhangi bir mesaj yaz → sıradaki 5 konu buton olarak gelir → seçtiğin üretilir (bot ~5 dakikada bir kontrol eder).
+- Kuyrukta 5 bölüm kalınca bot uyarır.
 
-Video Telegram'a gelir, ayrıca çalıştırmanın **Artifacts** kısmından indirilebilir.
+## Yeni bölüm eklemek
+`konular.txt` dosyasına aynı formatta yeni bölümler ekle ve çalıştır:
+```
+python build_queue.py
+```
 
-## Gerekli secrets (Settings → Secrets → Actions)
-| Ad | Açıklama |
-|---|---|
-| `TELEGRAM_BOT_TOKEN` | @BotFather'dan alınan bot token |
-| `TELEGRAM_CHAT_ID` | Videonun gideceği sohbet/kanal ID'si |
+## Secrets
+`TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`
 
-## Ayarlar
-`TTS_VOICE` (varsayılan `tr-TR-AhmetNeural`), `TTS_RATE` (varsayılan `+25%`).
-## Yerel çalıştırma
+## Yerel render
 ```
 pip install pillow edge-tts imageio-ffmpeg requests
-python render.py episodes/01_ekmek_sut.json short.mp4
+python render.py queue/001_9_99_fiyat_hilesi.json short.mp4
 ```
 Windows'ta `FONT_BOLD=C:\Windows\Fonts\arialbd.ttf` ayarla.

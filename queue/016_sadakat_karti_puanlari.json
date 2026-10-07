@@ -1,0 +1,151 @@
+{
+ "topic": "Sadakat Kartı Puanları",
+ "scenes": [
+  {
+   "caption": "PUAN KAZAN!\nAMA NEYE?",
+   "voice": "Her alışverişte puan kazanıyorsun. Peki karşılığında ne veriyorsun?",
+   "keyword": "PUAN",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SADAKAT\nKAFESİ",
+   "voice": "Puan seni hep aynı markete bağlar.",
+   "keyword": "SADAKAT",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "FİYAT KIYASI\nBİTER",
+   "voice": "Artık başka yerlerde fiyat karşılaştırmazsın.",
+   "keyword": "KIYAS",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "VERİLERİN",
+   "voice": "Üstelik ne aldığın, ne zaman aldığın kaydedilir.",
+   "keyword": "VERİ",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SANA ÖZEL\nKAMPANYA",
+   "voice": "Sana özel kampanyalar bu verilerle hazırlanır.",
+   "keyword": "ÖZEL",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "PUAN SİLİNİR",
+   "voice": "Ve birçok puanın son kullanma tarihi vardır.",
+   "keyword": "SÜRE",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nPUANA DEĞİL FİYATA",
+   "voice": "Çözüm: puana değil, toplam fiyata bak.",
+   "keyword": "FİYAT",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "KAÇ KARTIN VAR?",
+   "voice": "Senin cüzdanında kaç sadakat kartı var? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Sadakat Kartı Puanları 😳 #shorts",
+ "description": "Her alışverişte puan kazanıyorsun. Peki karşılığında ne veriyorsun?\n\nÇözüm: puana değil, toplam fiyata bak.\n\n💬 Senin cüzdanında kaç sadakat kartı var? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

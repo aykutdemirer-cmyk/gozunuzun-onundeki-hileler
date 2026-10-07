@@ -1,0 +1,151 @@
+{
+ "topic": "Menüde Kaybolan TL İşareti",
+ "scenes": [
+  {
+   "caption": "TL NEREDE?",
+   "voice": "Restoran menüsünde fiyatların yanında lira işareti yok, fark ettin mi?",
+   "keyword": "₺?",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "BİLEREK\nSİLİNDİ",
+   "voice": "Bu bir unutkanlık değil, bilinçli bir tasarım.",
+   "keyword": "BİLİNÇLİ",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "PARA = ACI",
+   "voice": "Para simgesi beyne harcama yaptığını hatırlatır.",
+   "keyword": "ACI",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SADECE\nSAYI",
+   "voice": "Sadece sayı görünce ödediğin parayı daha az hissedersin.",
+   "keyword": "120",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "NOKTALAR\nDA YOK",
+   "voice": "Fiyatları hizalayan noktalı çizgiler de bu yüzden kaldırıldı.",
+   "keyword": "......",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "KIYAS\nYAPAMA",
+   "voice": "Çünkü göz o çizgiyi takip edip en ucuzu arar.",
+   "keyword": "KIYAS",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nÖNCE BÜTÇE",
+   "voice": "Çözüm: menüyü açmadan önce ne kadar harcayacağına karar ver.",
+   "keyword": "BÜTÇE",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "FARK ETTİN Mİ?",
+   "voice": "Sen bunu daha önce fark etmiş miydin? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Menüde Kaybolan TL İşareti 😳 #shorts",
+ "description": "Restoran menüsünde fiyatların yanında lira işareti yok, fark ettin mi?\n\nÇözüm: menüyü açmadan önce ne kadar harcayacağına karar ver.\n\n💬 Sen bunu daha önce fark etmiş miydin? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

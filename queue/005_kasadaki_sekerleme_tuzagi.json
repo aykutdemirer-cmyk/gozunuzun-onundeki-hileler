@@ -1,0 +1,151 @@
+{
+ "topic": "Kasadaki Şekerleme Tuzağı",
+ "scenes": [
+  {
+   "caption": "KASADA\nNEDEN ŞEKER?",
+   "voice": "Kasada beklerken neden hep çikolata ve sakız var?",
+   "keyword": "KASA",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "BEKLEMEK =\nZAYIF AN",
+   "voice": "Çünkü sırada beklerken irade en zayıf anındadır.",
+   "keyword": "İRADE",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "KÜÇÜK FİYAT",
+   "voice": "Fiyatlar küçük olduğu için düşünmeden alırsın.",
+   "keyword": "UCUZ",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇOCUK HİZASI",
+   "voice": "Raflar tam çocukların göz hizasında.",
+   "keyword": "ÇOCUK",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "\"ANNE\nALALIM!\"",
+   "voice": "Ve çocuk istediğinde hayır demek kasada daha zor.",
+   "keyword": "ALALIM",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ANLIK KARAR",
+   "voice": "Buna anlık satın alma denir ve market bunu çok iyi bilir.",
+   "keyword": "ANLIK",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nGÖZÜNÜ TELEFONA",
+   "voice": "Çözüm: sırada beklerken rafa değil, listene bak.",
+   "keyword": "LİSTE",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SEN DE ALIYOR MUSUN?",
+   "voice": "Sen kasada son anda bir şey alıyor musun? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Kasadaki Şekerleme Tuzağı 😳 #shorts",
+ "description": "Kasada beklerken neden hep çikolata ve sakız var?\n\nÇözüm: sırada beklerken rafa değil, listene bak.\n\n💬 Sen kasada son anda bir şey alıyor musun? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

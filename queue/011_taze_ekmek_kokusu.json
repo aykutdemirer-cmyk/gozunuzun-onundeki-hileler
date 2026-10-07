@@ -1,0 +1,151 @@
+{
+ "topic": "Taze Ekmek Kokusu",
+ "scenes": [
+  {
+   "caption": "O KOKU\nNEREDEN?",
+   "voice": "Markete girdiğin an gelen o taze ekmek kokusu.",
+   "keyword": "KOKU",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "İŞTAH\nTETİKLEYİCİ",
+   "voice": "Bu koku iştahını açar ve seni acıktırır.",
+   "keyword": "AÇLIK",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "AÇ ALIŞVERİŞ =\nDAHA ÇOK",
+   "voice": "Aç biri markette çok daha fazla ürün alır.",
+   "keyword": "AÇ",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "FIRIN\nGİRİŞTE",
+   "voice": "Bu yüzden fırın reyonu çoğu zaman girişe yakındır.",
+   "keyword": "FIRIN",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ROTA\nKOKUYLA",
+   "voice": "Koku seni bir reyondan diğerine sürükler.",
+   "keyword": "ROTA",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "HİSLERİNE\nOYNUYORLAR",
+   "voice": "Market sadece gözüne değil, burnuna da oynuyor.",
+   "keyword": "BURUN",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nTOK GİT",
+   "voice": "Çözüm: markete asla aç karnına gitme.",
+   "keyword": "TOK",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SEN DE ACIKIR MISIN?",
+   "voice": "O kokuyla sen de acıkıyor musun? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Taze Ekmek Kokusu 😳 #shorts",
+ "description": "Markete girdiğin an gelen o taze ekmek kokusu.\n\nÇözüm: markete asla aç karnına gitme.\n\n💬 O kokuyla sen de acıkıyor musun? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

@@ -1,0 +1,151 @@
+{
+ "topic": "Fast Food Koltuk Hilesi",
+ "scenes": [
+  {
+   "caption": "O KOLTUKLAR\nNEDEN SERT?",
+   "voice": "Fast food restoranında koltuklar neden hep sert?",
+   "keyword": "KOLTUK",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "UZUN OTURMA",
+   "voice": "Çünkü uzun oturmanı istemiyorlar.",
+   "keyword": "HIZLI",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "MASA DEVRİ",
+   "voice": "Ne kadar hızlı kalkarsan masa o kadar hızlı yeni müşteriye geçer.",
+   "keyword": "DEVİR",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "KIRMIZI\nSARI",
+   "voice": "Kırmızı ve sarı renkler de enerji ve acele hissi verir.",
+   "keyword": "RENK",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "PARLAK IŞIK",
+   "voice": "Parlak ışıklar rahatlamanı engeller.",
+   "keyword": "IŞIK",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "LÜKS RESTORAN\nTERSİ",
+   "voice": "Lüks restoranlar ise loş ışık ve rahat koltukla seni tutar.",
+   "keyword": "LÜKS",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nFARKINDA OL",
+   "voice": "Çözüm: mekânın seni yönlendirdiğinin farkında ol.",
+   "keyword": "FARKINDALIK",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "FARK ETTİN Mİ?",
+   "voice": "Sen bu koltukları hiç fark ettin mi? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Fast Food Koltuk Hilesi 😳 #shorts",
+ "description": "Fast food restoranında koltuklar neden hep sert?\n\nÇözüm: mekânın seni yönlendirdiğinin farkında ol.\n\n💬 Sen bu koltukları hiç fark ettin mi? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

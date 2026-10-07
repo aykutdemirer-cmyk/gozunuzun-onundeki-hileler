@@ -1,0 +1,151 @@
+{
+ "topic": "Mağaza Girişi ve Sağa Dönüş",
+ "scenes": [
+  {
+   "caption": "GİRİŞTE\nBOŞLUK NEDEN?",
+   "voice": "Mağaza girişindeki o boş alan neden orada?",
+   "keyword": "BOŞLUK",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "GEÇİŞ\nALANI",
+   "voice": "Buna geçiş alanı denir; dışarıdan içeriye uyum sağlarsın.",
+   "keyword": "GEÇİŞ",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "BURADA\nSATILMAZ",
+   "voice": "Bu alana konan ürünleri çoğu kişi fark etmez bile.",
+   "keyword": "GÖRÜNMEZ",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SAĞA\nDÖNERSİN",
+   "voice": "Ardından birçok insan içgüdüsel olarak sağa döner.",
+   "keyword": "SAĞ",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SAĞ DUVAR\nVİTRİN",
+   "voice": "Mağazalar en dikkat çekici ürünleri oraya koyar.",
+   "keyword": "VİTRİN",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ROTA\nHAZIR",
+   "voice": "Yani yürüyeceğin yol önceden planlanmıştır.",
+   "keyword": "ROTA",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nÖNCE SOLA BAK",
+   "voice": "Çözüm: bir dahaki sefere ilk sola bak.",
+   "keyword": "SOL",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SEN NEREYE\nDÖNERSİN?",
+   "voice": "Sen mağazaya girince ilk nereye dönersin? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Mağaza Girişi ve Sağa Dönüş 😳 #shorts",
+ "description": "Mağaza girişindeki o boş alan neden orada?\n\nÇözüm: bir dahaki sefere ilk sola bak.\n\n💬 Sen mağazaya girince ilk nereye dönersin? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

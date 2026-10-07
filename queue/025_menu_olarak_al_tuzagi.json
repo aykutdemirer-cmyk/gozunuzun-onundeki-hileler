@@ -1,0 +1,151 @@
+{
+ "topic": "Menü Olarak Al Tuzağı",
+ "scenes": [
+  {
+   "caption": "MENÜ YAP\nSADECE 30 TL",
+   "voice": "Sadece otuz lira ekle, menü yapalım mı?",
+   "keyword": "MENÜ",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "EVET!\nOTOMATİK",
+   "voice": "Çoğumuz düşünmeden evet deriz.",
+   "keyword": "EVET",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "İHTİYAÇ\nYOKTU",
+   "voice": "Oysa patates ve içeceğe ihtiyacın yoktu.",
+   "keyword": "İHTİYAÇ",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "EN KÂRLI\nÜRÜN",
+   "voice": "İçecekler genellikle en kârlı ürünler arasındadır.",
+   "keyword": "KÂR",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "BOYU BÜYÜT?",
+   "voice": "Bir de boyunu büyütelim mi sorusu gelir.",
+   "keyword": "BÜYÜK",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "FIRSAT\nALGISI",
+   "voice": "Hepsi sana fırsat gibi sunulur.",
+   "keyword": "FIRSAT",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nSADECE İSTEDİĞİN",
+   "voice": "Çözüm: sadece gerçekten istediğini söyle.",
+   "keyword": "SADE",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "MENÜ MÜ TEK Mİ?",
+   "voice": "Sen menü mü alırsın, tek ürün mü? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Menü Olarak Al Tuzağı 😳 #shorts",
+ "description": "Sadece otuz lira ekle, menü yapalım mı?\n\nÇözüm: sadece gerçekten istediğini söyle.\n\n💬 Sen menü mü alırsın, tek ürün mü? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

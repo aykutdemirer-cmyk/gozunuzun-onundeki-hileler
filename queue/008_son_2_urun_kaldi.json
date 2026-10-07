@@ -1,0 +1,151 @@
+{
+ "topic": "Son 2 Ürün Kaldı",
+ "scenes": [
+  {
+   "caption": "SON 2 ÜRÜN!\nGERÇEK Mİ?",
+   "voice": "Son iki ürün kaldı yazısı gördün ve hemen aldın mı?",
+   "keyword": "SON 2",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "KITLIK\nHİSSİ",
+   "voice": "Bu yazı beynindeki kaybetme korkusunu tetikler.",
+   "keyword": "KITLIK",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "DÜŞÜNME\nSÜRESİ YOK",
+   "voice": "Amaç sana düşünecek zaman bırakmamak.",
+   "keyword": "ACELE",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "BAZEN\nHEP AYNI",
+   "voice": "Bazı sitelerde bu sayı günlerce hiç değişmez.",
+   "keyword": "HEP 2",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "KAYBETME\nKORKUSU",
+   "voice": "İnsan kazanmaktan çok kaybetmekten korkar.",
+   "keyword": "KORKU",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SEPETE AT!",
+   "voice": "Ve bu korku seni sepete yönlendirir.",
+   "keyword": "SEPET",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\n24 SAAT BEKLE",
+   "voice": "Çözüm: ihtiyacın değilse yirmi dört saat bekle.",
+   "keyword": "24 SAAT",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SEN DE KANDIN MI?",
+   "voice": "Sen bu yazı yüzünden hiç alışveriş yaptın mı? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Son 2 Ürün Kaldı 😳 #shorts",
+ "description": "Son iki ürün kaldı yazısı gördün ve hemen aldın mı?\n\nÇözüm: ihtiyacın değilse yirmi dört saat bekle.\n\n💬 Sen bu yazı yüzünden hiç alışveriş yaptın mı? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

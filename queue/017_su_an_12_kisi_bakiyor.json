@@ -1,0 +1,151 @@
+{
+ "topic": "Şu An 12 Kişi Bakıyor",
+ "scenes": [
+  {
+   "caption": "12 KİŞİ\nBAKIYOR!",
+   "voice": "Otel sitesinde: şu an on iki kişi bu odaya bakıyor.",
+   "keyword": "12",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SOSYAL\nKANIT",
+   "voice": "Başkaları istiyorsa değerli olmalı diye düşünürsün.",
+   "keyword": "KANIT",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "REKABET\nHİSSİ",
+   "voice": "Bir anda o odayı kapmak için yarıştığını hissedersin.",
+   "keyword": "YARIŞ",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SON ODA!",
+   "voice": "Yanına bir de son oda yazısı eklenir.",
+   "keyword": "SON ODA",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "KONTROL\nEDEMEZSİN",
+   "voice": "Bu sayıların nasıl hesaplandığını bilemezsin.",
+   "keyword": "?",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ACELE\nREZERVASYON",
+   "voice": "Sonuç: karşılaştırmadan hemen rezervasyon.",
+   "keyword": "ACELE",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nBİRKAÇ SİTE",
+   "voice": "Çözüm: aynı oteli birkaç farklı sitede karşılaştır.",
+   "keyword": "KIYAS",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SEN DE HIZLANDIN MI?",
+   "voice": "Bu yazılar seni acele ettirdi mi? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Şu An 12 Kişi Bakıyor 😳 #shorts",
+ "description": "Otel sitesinde: şu an on iki kişi bu odaya bakıyor.\n\nÇözüm: aynı oteli birkaç farklı sitede karşılaştır.\n\n💬 Bu yazılar seni acele ettirdi mi? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

@@ -1,0 +1,151 @@
+{
+ "topic": "Kasa Önü Bağış ve Ek Satış",
+ "scenes": [
+  {
+   "caption": "POŞET İSTER\nMİSİNİZ?",
+   "voice": "Poşet, kampanya ürünü, puan kartı... Kasada sorular bitmez.",
+   "keyword": "KASA",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SON ADIM\nSON SATIŞ",
+   "voice": "Ödeme anı satıcı için son satış fırsatıdır.",
+   "keyword": "FIRSAT",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "HAYIR DEMEK\nZOR",
+   "voice": "Sıra beklerken ve acele ederken hayır demek zordur.",
+   "keyword": "HAYIR",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "KÜÇÜK TUTAR",
+   "voice": "Teklif edilen şeyler hep küçük tutarlıdır.",
+   "keyword": "KÜÇÜK",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "TOPLAMDA\nBÜYÜK",
+   "voice": "Ama yıl boyunca toplandığında ciddi bir rakam eder.",
+   "keyword": "TOPLAM",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ALIŞKANLIK",
+   "voice": "Bir kere evet dersen alışkanlığa döner.",
+   "keyword": "ALIŞKANLIK",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nHAZIR CEVAP",
+   "voice": "Çözüm: kasaya gelmeden hayır cevabını hazırla.",
+   "keyword": "HAYIR",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SEN EVET Mİ DERSİN?",
+   "voice": "Sen kasadaki tekliflere evet mi dersin? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Kasa Önü Bağış ve Ek Satış 😳 #shorts",
+ "description": "Poşet, kampanya ürünü, puan kartı... Kasada sorular bitmez.\n\nÇözüm: kasaya gelmeden hayır cevabını hazırla.\n\n💬 Sen kasadaki tekliflere evet mi dersin? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

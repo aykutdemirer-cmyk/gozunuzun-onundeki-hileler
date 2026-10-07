@@ -1,0 +1,151 @@
+{
+ "topic": "Kartla Daha Çok Harcamak",
+ "scenes": [
+  {
+   "caption": "NAKİT Mİ\nKART MI?",
+   "voice": "Kartla ödeyince daha mı çok harcıyorsun?",
+   "keyword": "KART",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÖDEME\nACISI",
+   "voice": "Nakit verirken paranın gittiğini görür ve hissedersin.",
+   "keyword": "NAKİT",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "KART =\nHİSSİZ",
+   "voice": "Kartta ise sadece bir dokunuş var.",
+   "keyword": "DOKUNUŞ",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "TEMASSIZ",
+   "voice": "Temassız ödeme bu hissi neredeyse sıfıra indirir.",
+   "keyword": "TEMASSIZ",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ARAŞTIRMALAR",
+   "voice": "Birçok araştırma kartla harcamanın arttığını gösteriyor.",
+   "keyword": "ARAŞTIRMA",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "AY SONU\nSÜRPRİZİ",
+   "voice": "Sürpriz ise ay sonunda ekstrede gelir.",
+   "keyword": "EKSTRE",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nHAFTALIK NAKİT",
+   "voice": "Çözüm: harcamaların için haftalık nakit bütçe dene.",
+   "keyword": "NAKİT",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SEN HANGİSİNİ\nKULLANIRSIN?",
+   "voice": "Sen nakit mi kullanırsın, kart mı? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Kartla Daha Çok Harcamak 😳 #shorts",
+ "description": "Kartla ödeyince daha mı çok harcıyorsun?\n\nÇözüm: harcamaların için haftalık nakit bütçe dene.\n\n💬 Sen nakit mi kullanırsın, kart mı? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

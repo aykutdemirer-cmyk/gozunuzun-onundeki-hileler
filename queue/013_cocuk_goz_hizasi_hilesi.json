@@ -1,0 +1,151 @@
+{
+ "topic": "Çocuk Göz Hizası Hilesi",
+ "scenes": [
+  {
+   "caption": "O MASKOT\nSANA DEĞİL",
+   "voice": "Mısır gevreği kutusundaki o şirin maskot sana bakmıyor.",
+   "keyword": "MASKOT",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇOCUK\nGÖZ HİZASI",
+   "voice": "Şekerli ürünler çocukların göz hizasına dizilir.",
+   "keyword": "ÇOCUK",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "GÖZ GÖZE",
+   "voice": "Bazı kutulardaki karakterlerin bakışı aşağıya, çocuğa doğrudur.",
+   "keyword": "BAKIŞ",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "\"İSTİYORUM!\"",
+   "voice": "Çocuk görür, ister, ağlar.",
+   "keyword": "İSTİYORUM",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "YORGUN\nEBEVEYN",
+   "voice": "Yorgun ebeveyn de çoğu zaman pes eder.",
+   "keyword": "PES",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "PLANLI\nSTRATEJİ",
+   "voice": "Bu raf düzeni tamamen planlı.",
+   "keyword": "PLAN",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nÖNCEDEN ANLAŞ",
+   "voice": "Çözüm: markete girmeden çocukla ne alınacağına anlaş.",
+   "keyword": "ANLAŞ",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SİZDE NASIL?",
+   "voice": "Sizin evde market krizleri yaşanıyor mu? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Çocuk Göz Hizası Hilesi 😳 #shorts",
+ "description": "Mısır gevreği kutusundaki o şirin maskot sana bakmıyor.\n\nÇözüm: markete girmeden çocukla ne alınacağına anlaş.\n\n💬 Sizin evde market krizleri yaşanıyor mu? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

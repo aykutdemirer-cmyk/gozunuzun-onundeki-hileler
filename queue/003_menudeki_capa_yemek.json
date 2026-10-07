@@ -1,0 +1,151 @@
+{
+ "topic": "Menüdeki Çapa Yemek",
+ "scenes": [
+  {
+   "caption": "O PAHALI YEMEK\nSATILMAK İÇİN DEĞİL",
+   "voice": "Menüdeki en pahalı yemek aslında satılmak için orada değil.",
+   "keyword": "ÇAPA",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇAPA ETKİSİ",
+   "voice": "Buna çapa etkisi deniyor.",
+   "keyword": "ÇAPA",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "900 TL'LİK\nBİFTEK",
+   "voice": "Önce dokuz yüz liralık bifteği görürsün.",
+   "keyword": "900",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "450 TL\nMAKUL GELİR",
+   "voice": "Sonra dört yüz elli liralık yemek birden makul görünür.",
+   "keyword": "450",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ASIL HEDEF",
+   "voice": "Restoranın asıl satmak istediği tam olarak o ikinci yemek.",
+   "keyword": "HEDEF",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SAĞ ÜST\nKÖŞE",
+   "voice": "Bu yemekler genelde gözün ilk baktığı yerlere yerleştirilir.",
+   "keyword": "GÖZ",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nKENDİ ÇAPAN",
+   "voice": "Çözüm: menüye bakmadan önce kendi fiyat sınırını belirle.",
+   "keyword": "SINIR",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SEN NE YAPARSIN?",
+   "voice": "Sen menüde en ucuzu mu seçersin, ortadakini mi? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Menüdeki Çapa Yemek 😳 #shorts",
+ "description": "Menüdeki en pahalı yemek aslında satılmak için orada değil.\n\nÇözüm: menüye bakmadan önce kendi fiyat sınırını belirle.\n\n💬 Sen menüde en ucuzu mu seçersin, ortadakini mi? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

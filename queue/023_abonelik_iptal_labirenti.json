@@ -1,0 +1,151 @@
+{
+ "topic": "Abonelik İptal Labirenti",
+ "scenes": [
+  {
+   "caption": "ÜYE OL:\n1 TIK",
+   "voice": "Üye olmak bir tık. Peki iptal etmek?",
+   "keyword": "1 TIK",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "İPTAL:\nLABİRENT",
+   "voice": "İptal için menü, alt menü, ara sayfa, anket.",
+   "keyword": "LABİRENT",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "KARANLIK\nTASARIM",
+   "voice": "Buna karanlık tasarım deniyor.",
+   "keyword": "KARANLIK",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "EMİN MİSİN?",
+   "voice": "Her adımda emin misin diye tekrar soruluyor.",
+   "keyword": "EMİN?",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SON TEKLİF!",
+   "voice": "Ve son anda sana özel indirim teklifi çıkıyor.",
+   "keyword": "TEKLİF",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "VAZGEÇ\nYORUL",
+   "voice": "Amaç yorulup vazgeçmen.",
+   "keyword": "YORGUNLUK",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nÖNCE İPTALE BAK",
+   "voice": "Çözüm: üye olmadan önce nasıl iptal edildiğine bak.",
+   "keyword": "İPTAL",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "EN ZOR İPTAL?",
+   "voice": "Senin iptal ederken en zorlandığın abonelik hangisiydi? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Abonelik İptal Labirenti 😳 #shorts",
+ "description": "Üye olmak bir tık. Peki iptal etmek?\n\nÇözüm: üye olmadan önce nasıl iptal edildiğine bak.\n\n💬 Senin iptal ederken en zorlandığın abonelik hangisiydi? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

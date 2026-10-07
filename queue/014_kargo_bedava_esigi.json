@@ -1,0 +1,151 @@
+{
+ "topic": "Kargo Bedava Eşiği",
+ "scenes": [
+  {
+   "caption": "KARGO BEDAVA\nAMA...",
+   "voice": "Kargo bedava, ama sepetin belli bir tutarı geçerse.",
+   "keyword": "KARGO",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "40 TL KARGO\nYERİNE",
+   "voice": "Kırk lira kargo ödememek için ne yaparsın?",
+   "keyword": "40 TL",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "200 TL\nEKSTRA",
+   "voice": "Sepete hiç ihtiyacın olmayan ürünler eklersin.",
+   "keyword": "+200",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "KAZANDIM\nSANIRSIN",
+   "voice": "Kargodan kurtulduğunu sanırsın.",
+   "keyword": "KAZANÇ?",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ASIL KAZANAN",
+   "voice": "Ama asıl kazanan, sepetini büyüten satıcıdır.",
+   "keyword": "SATICI",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "EŞİK\nBİLİNÇLİ",
+   "voice": "Bu eşik tutarı bilerek belirlenir.",
+   "keyword": "EŞİK",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nKARGOYU ÖDE",
+   "voice": "Çözüm: gereksiz ürün almaktansa kargoyu öde.",
+   "keyword": "ÖDE",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SEN NE YAPARSIN?",
+   "voice": "Sen kargo bedava olsun diye sepete ürün ekler misin? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Kargo Bedava Eşiği 😳 #shorts",
+ "description": "Kargo bedava, ama sepetin belli bir tutarı geçerse.\n\nÇözüm: gereksiz ürün almaktansa kargoyu öde.\n\n💬 Sen kargo bedava olsun diye sepete ürün ekler misin? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

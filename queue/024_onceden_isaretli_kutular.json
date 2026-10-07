@@ -1,0 +1,151 @@
+{
+ "topic": "Önceden İşaretli Kutular",
+ "scenes": [
+  {
+   "caption": "✓ ZATEN\nİŞARETLİ",
+   "voice": "Bilet alırken o kutu zaten işaretliydi, fark ettin mi?",
+   "keyword": "✓",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SİGORTA\nEKSTRA",
+   "voice": "Seyahat sigortası, öncelikli biniş, ekstra hizmet.",
+   "keyword": "EKSTRA",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "VARSAYILAN\nGÜCÜ",
+   "voice": "İnsanlar varsayılan seçeneği çoğu zaman değiştirmez.",
+   "keyword": "VARSAYILAN",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÜŞENGEÇLİK\nHESABI",
+   "voice": "Şirketler bu üşengeçliği çok iyi hesaplar.",
+   "keyword": "HESAP",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "KÜÇÜK\nRAKAMLAR",
+   "voice": "Her biri küçük ama toplamda ciddi bir fark.",
+   "keyword": "+",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SEPET\nŞİŞER",
+   "voice": "Ödeme sayfasında toplam birden şişer.",
+   "keyword": "TOPLAM",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nHER KUTUYA BAK",
+   "voice": "Çözüm: ödemeden önce her kutucuğu tek tek kontrol et.",
+   "keyword": "KONTROL",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SEN DE YAKALANDIN MI?",
+   "voice": "Sen hiç istemediğin bir hizmete para ödedin mi? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Önceden İşaretli Kutular 😳 #shorts",
+ "description": "Bilet alırken o kutu zaten işaretliydi, fark ettin mi?\n\nÇözüm: ödemeden önce her kutucuğu tek tek kontrol et.\n\n💬 Sen hiç istemediğin bir hizmete para ödedin mi? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

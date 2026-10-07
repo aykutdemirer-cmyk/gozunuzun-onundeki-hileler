@@ -1,0 +1,151 @@
+{
+ "topic": "Oyun İçi Para Hilesi",
+ "scenes": [
+  {
+   "caption": "1000 ELMAS =\nKAÇ TL?",
+   "voice": "Bin elmas aslında kaç lira, hiç hesapladın mı?",
+   "keyword": "ELMAS",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "PARA DEĞİL\nJETON",
+   "voice": "Oyunlar gerçek para yerine sanal para kullanır.",
+   "keyword": "JETON",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "BAĞ KOPAR",
+   "voice": "Böylece beynin harcadığın parayla bağı kopar.",
+   "keyword": "BAĞ",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ARTAN\nPAKETLER",
+   "voice": "Paketler, ihtiyacından biraz fazla alacağın şekilde ayarlanır.",
+   "keyword": "PAKET",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ARTAN ELMAS",
+   "voice": "Elinde kalan artık elmaslar seni tekrar almaya iter.",
+   "keyword": "ARTAN",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇOCUKLAR\nİÇİN RİSK",
+   "voice": "Bu tuzak özellikle çocuklar için tehlikeli.",
+   "keyword": "RİSK",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nTL'YE ÇEVİR",
+   "voice": "Çözüm: her alımda fiyatı liraya çevir.",
+   "keyword": "TL",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "NE KADAR HARCADIN?",
+   "voice": "Sen oyunlara toplam ne kadar harcadın? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Oyun İçi Para Hilesi 😳 #shorts",
+ "description": "Bin elmas aslında kaç lira, hiç hesapladın mı?\n\nÇözüm: her alımda fiyatı liraya çevir.\n\n💬 Sen oyunlara toplam ne kadar harcadın? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

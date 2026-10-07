@@ -1,0 +1,271 @@
+# Format: "## Başlık" satırı, ardından sahneler: ALTYAZI (/ = alt satır) | dış ses | vurgu kelimesi
+## 9,99 Fiyat Hilesi
+10 DEĞİL/9,99! | Neden hiçbir şey on lira değil de dokuz doksan dokuz? | 9,99
+BEYİN SOLDAN/OKUR | Çünkü beynin fiyatı soldan okur ve ilk rakama takılır. | SOL
+9 ≠ 10 | Dokuz doksan dokuz sana dokuz gibi gelir, oysa neredeyse on. | ALGI
+1 KURUŞ/FARK | Aradaki fark sadece bir kuruş ama algıdaki fark devasa. | 1 KURUŞ
+UCUZ HİSSİ | Bu numara ürüne indirimdeymiş hissi veriyor. | İNDİRİM?
+LÜKS MARKALAR/TERSİNİ YAPAR | Lüks markalar ise tam tersini yapar: yuvarlak fiyatla kaliteli görünür. | LÜKS
+ÇÖZÜM:/YUKARI YUVARLA | Çözüm: her fiyatı kafanda yukarı yuvarla. | YUVARLA
+SEN HANGİSİSİN? | Sen bu hileye hiç takıldın mı, yoksa hep fark ettin mi? Yorumlara yaz! | ?
+## Menüde Kaybolan TL İşareti
+TL NEREDE? | Restoran menüsünde fiyatların yanında lira işareti yok, fark ettin mi? | ₺?
+BİLEREK/SİLİNDİ | Bu bir unutkanlık değil, bilinçli bir tasarım. | BİLİNÇLİ
+PARA = ACI | Para simgesi beyne harcama yaptığını hatırlatır. | ACI
+SADECE/SAYI | Sadece sayı görünce ödediğin parayı daha az hissedersin. | 120
+NOKTALAR/DA YOK | Fiyatları hizalayan noktalı çizgiler de bu yüzden kaldırıldı. | ......
+KIYAS/YAPAMA | Çünkü göz o çizgiyi takip edip en ucuzu arar. | KIYAS
+ÇÖZÜM:/ÖNCE BÜTÇE | Çözüm: menüyü açmadan önce ne kadar harcayacağına karar ver. | BÜTÇE
+FARK ETTİN Mİ? | Sen bunu daha önce fark etmiş miydin? Yorumlara yaz! | ?
+## Menüdeki Çapa Yemek
+O PAHALI YEMEK/SATILMAK İÇİN DEĞİL | Menüdeki en pahalı yemek aslında satılmak için orada değil. | ÇAPA
+ÇAPA ETKİSİ | Buna çapa etkisi deniyor. | ÇAPA
+900 TL'LİK/BİFTEK | Önce dokuz yüz liralık bifteği görürsün. | 900
+450 TL/MAKUL GELİR | Sonra dört yüz elli liralık yemek birden makul görünür. | 450
+ASIL HEDEF | Restoranın asıl satmak istediği tam olarak o ikinci yemek. | HEDEF
+SAĞ ÜST/KÖŞE | Bu yemekler genelde gözün ilk baktığı yerlere yerleştirilir. | GÖZ
+ÇÖZÜM:/KENDİ ÇAPAN | Çözüm: menüye bakmadan önce kendi fiyat sınırını belirle. | SINIR
+SEN NE YAPARSIN? | Sen menüde en ucuzu mu seçersin, ortadakini mi? Yorumlara yaz! | ?
+## Orta Boy Kahve Tuzağı
+NEDEN HEP/ORTA BOY? | Kafede neden hep orta boy kahve alıyorsun? | ORTA
+3 BOY/1 TUZAK | Çünkü üç boy seçeneğinden biri sadece seni yönlendirmek için var. | TUZAK
+KÜÇÜK/ÇOK KÜÇÜK | Küçük boy bilerek küçük ve neredeyse aynı fiyatta tutulur. | KÜÇÜK
+BÜYÜK/ÇOK PAHALI | Büyük boy ise gözünü korkutacak kadar pahalı. | BÜYÜK
+ORTA =/AKILLI SEÇİM? | Ortadaki sana en akıllı seçim gibi görünür. | ORTA
+YEM SEÇENEK | Buna yem seçenek etkisi denir. | YEM
+ÇÖZÜM:/GERÇEKTEN NE KADAR? | Çözüm: ne kadar içmek istediğini düşün, boyuta değil. | İHTİYAÇ
+HANGİ BOY? | Sen kahveni hangi boy alırsın? Yorumlara yaz! | ?
+## Kasadaki Şekerleme Tuzağı
+KASADA/NEDEN ŞEKER? | Kasada beklerken neden hep çikolata ve sakız var? | KASA
+BEKLEMEK =/ZAYIF AN | Çünkü sırada beklerken irade en zayıf anındadır. | İRADE
+KÜÇÜK FİYAT | Fiyatlar küçük olduğu için düşünmeden alırsın. | UCUZ
+ÇOCUK HİZASI | Raflar tam çocukların göz hizasında. | ÇOCUK
+"ANNE/ALALIM!" | Ve çocuk istediğinde hayır demek kasada daha zor. | ALALIM
+ANLIK KARAR | Buna anlık satın alma denir ve market bunu çok iyi bilir. | ANLIK
+ÇÖZÜM:/GÖZÜNÜ TELEFONA | Çözüm: sırada beklerken rafa değil, listene bak. | LİSTE
+SEN DE ALIYOR MUSUN? | Sen kasada son anda bir şey alıyor musun? Yorumlara yaz! | ?
+## Paket Küçülüyor Fiyat Aynı
+AYNI FİYAT/DAHA AZ ÜRÜN | Fiyat aynı, paket aynı, ama içindeki ürün azalmış. | GRAM
+SHRINKFLATION | Buna küçülen enflasyon deniyor. | KÜÇÜLME
+100 G → 85 G | Yüz gramlık paket sessizce seksen beş grama iniyor. | 85 G
+AMBALAJ/AYNI KALIR | Ambalajın boyu ve tasarımı neredeyse hiç değişmiyor. | AMBALAJ
+ZAM YOK/GİBİ | Raf etiketine bakınca zam yokmuş gibi görünüyor. | ZAM?
+KİLO FİYATI | Ama kilo fiyatına baktığında gerçeği görürsün. | KG
+ÇÖZÜM:/BİRİM FİYAT | Çözüm: etiketteki birim fiyatı karşılaştır. | BİRİM
+FARK ETTİN Mİ? | Sen en son hangi üründe bunu fark ettin? Yorumlara yaz! | ?
+## Ücretsiz Deneme Tuzağı
+BEDAVA MI/GERÇEKTEN? | Otuz gün ücretsiz deneme. Gerçekten bedava mı? | BEDAVA
+KART BİLGİSİ/İSTER | Neden ücretsiz bir şey için kart bilgini istiyorlar? | KART
+UNUTACAĞINI/BİLİYORLAR | Çünkü iptal etmeyi unutacağını biliyorlar. | UNUTMA
+OTOMATİK/YENİLEME | Deneme bitince ücret sessizce kartından çekilir. | OTOMATİK
+İPTAL/ZOR | İptal butonu ise çoğu zaman menülerin derinliklerine saklanır. | İPTAL
+AY AY/BİRİKİR | Kullanmadığın abonelikler ay ay birikir. | BİRİKİM
+ÇÖZÜM:/HEMEN HATIRLATICI | Çözüm: deneme başlar başlamaz iptal tarihi için hatırlatıcı kur. | ALARM
+KAÇ ABONELİĞİN VAR? | Sen kaç aboneliğe para ödediğini biliyor musun? Yorumlara yaz! | ?
+## Son 2 Ürün Kaldı
+SON 2 ÜRÜN!/GERÇEK Mİ? | Son iki ürün kaldı yazısı gördün ve hemen aldın mı? | SON 2
+KITLIK/HİSSİ | Bu yazı beynindeki kaybetme korkusunu tetikler. | KITLIK
+DÜŞÜNME/SÜRESİ YOK | Amaç sana düşünecek zaman bırakmamak. | ACELE
+BAZEN/HEP AYNI | Bazı sitelerde bu sayı günlerce hiç değişmez. | HEP 2
+KAYBETME/KORKUSU | İnsan kazanmaktan çok kaybetmekten korkar. | KORKU
+SEPETE AT! | Ve bu korku seni sepete yönlendirir. | SEPET
+ÇÖZÜM:/24 SAAT BEKLE | Çözüm: ihtiyacın değilse yirmi dört saat bekle. | 24 SAAT
+SEN DE KANDIN MI? | Sen bu yazı yüzünden hiç alışveriş yaptın mı? Yorumlara yaz! | ?
+## Geri Sayım Sayacı Hilesi
+00:09:59 | Kampanya bitmek üzere, sayaç geri sayıyor! | SAYAÇ
+PANİK MODU | Bu sayaç seni panik moduna sokmak için tasarlandı. | PANİK
+SAYFAYI YENİLE | Sayfayı yenilediğinde bazen sayaç baştan başlar. | YENİLE
+ACİLİYET/YARATMAK | Amaç sahte bir aciliyet yaratmak. | ACİL
+ACELE =/HATA | Acele eden beyin fiyatı karşılaştırmaz. | HATA
+YARIN/YİNE İNDİRİM | Ve çoğu zaman ertesi gün aynı kampanya yine karşına çıkar. | YARIN
+ÇÖZÜM:/SAYACI YOK SAY | Çözüm: sayaca değil, ürünün gerçek fiyat geçmişine bak. | GEÇMİŞ
+SAYAÇ SENİ/ETKİLER Mİ? | Geri sayım sayacı seni acele ettirir mi? Yorumlara yaz! | ?
+## Market Müziğinin Sırrı
+MÜZİK/TESADÜF DEĞİL | Markette çalan o sakin müzik tesadüf değil. | MÜZİK
+YAVAŞ RİTİM | Yavaş tempolu müzik adımlarını da yavaşlatır. | YAVAŞ
+DAHA ÇOK/RAF | Yavaş yürüyen müşteri daha çok rafa bakar. | RAF
+DAHA ÇOK/SEPET | Daha çok bakan da daha çok alır. | SEPET
+FAST FOOD/TERSİ | Fast food restoranları ise tam tersini yapabilir: hızlı müzik, hızlı masa devri. | HIZLI
+KULAĞINA/HÜKMEDİYORLAR | Yani kulağından cüzdanına uzanan bir strateji. | KULAK
+ÇÖZÜM:/KULAKLIK TAK | Çözüm: kendi müziğini dinle, kendi temponda yürü. | KULAKLIK
+FARK ETMİŞ MİYDİN? | Market müziğine hiç dikkat ettin mi? Yorumlara yaz! | ?
+## Taze Ekmek Kokusu
+O KOKU/NEREDEN? | Markete girdiğin an gelen o taze ekmek kokusu. | KOKU
+İŞTAH/TETİKLEYİCİ | Bu koku iştahını açar ve seni acıktırır. | AÇLIK
+AÇ ALIŞVERİŞ =/DAHA ÇOK | Aç biri markette çok daha fazla ürün alır. | AÇ
+FIRIN/GİRİŞTE | Bu yüzden fırın reyonu çoğu zaman girişe yakındır. | FIRIN
+ROTA/KOKUYLA | Koku seni bir reyondan diğerine sürükler. | ROTA
+HİSLERİNE/OYNUYORLAR | Market sadece gözüne değil, burnuna da oynuyor. | BURUN
+ÇÖZÜM:/TOK GİT | Çözüm: markete asla aç karnına gitme. | TOK
+SEN DE ACIKIR MISIN? | O kokuyla sen de acıkıyor musun? Yorumlara yaz! | ?
+## Meyve Sebze Neden Girişte
+NEDEN HEP/GİRİŞTE? | Markete girince ilk gördüğün şey neden meyve ve sebze? | GİRİŞ
+RENK/ŞÖLENİ | Rengârenk tezgâhlar sana tazelik hissi verir. | TAZE
+İYİ HİS | Ve markete iyi bir ruh hâliyle başlarsın. | HİS
+SAĞLIKLI/ALDIM! | Sepete sağlıklı bir şey atınca beyin rahatlar. | SAĞLIK
+ÖDÜL/ZAMANI | Sonra kendini ödüllendirmek için atıştırmalık alırsın. | ÖDÜL
+SİSLEME/PARLAK IŞIK | Su püskürtme ve özel ışıklar ürünleri daha taze gösterir. | IŞIK
+ÇÖZÜM:/LİSTEYE SADIK | Çözüm: tezgâhın büyüsüne değil listene güven. | LİSTE
+SEN NEREDEN BAŞLARSIN? | Sen markette ilk hangi reyona gidersin? Yorumlara yaz! | ?
+## Çocuk Göz Hizası Hilesi
+O MASKOT/SANA DEĞİL | Mısır gevreği kutusundaki o şirin maskot sana bakmıyor. | MASKOT
+ÇOCUK/GÖZ HİZASI | Şekerli ürünler çocukların göz hizasına dizilir. | ÇOCUK
+GÖZ GÖZE | Bazı kutulardaki karakterlerin bakışı aşağıya, çocuğa doğrudur. | BAKIŞ
+"İSTİYORUM!" | Çocuk görür, ister, ağlar. | İSTİYORUM
+YORGUN/EBEVEYN | Yorgun ebeveyn de çoğu zaman pes eder. | PES
+PLANLI/STRATEJİ | Bu raf düzeni tamamen planlı. | PLAN
+ÇÖZÜM:/ÖNCEDEN ANLAŞ | Çözüm: markete girmeden çocukla ne alınacağına anlaş. | ANLAŞ
+SİZDE NASIL? | Sizin evde market krizleri yaşanıyor mu? Yorumlara yaz! | ?
+## Kargo Bedava Eşiği
+KARGO BEDAVA/AMA... | Kargo bedava, ama sepetin belli bir tutarı geçerse. | KARGO
+40 TL KARGO/YERİNE | Kırk lira kargo ödememek için ne yaparsın? | 40 TL
+200 TL/EKSTRA | Sepete hiç ihtiyacın olmayan ürünler eklersin. | +200
+KAZANDIM/SANIRSIN | Kargodan kurtulduğunu sanırsın. | KAZANÇ?
+ASIL KAZANAN | Ama asıl kazanan, sepetini büyüten satıcıdır. | SATICI
+EŞİK/BİLİNÇLİ | Bu eşik tutarı bilerek belirlenir. | EŞİK
+ÇÖZÜM:/KARGOYU ÖDE | Çözüm: gereksiz ürün almaktansa kargoyu öde. | ÖDE
+SEN NE YAPARSIN? | Sen kargo bedava olsun diye sepete ürün ekler misin? Yorumlara yaz! | ?
+## Üstü Çizili Fiyat
+1000 TL/499 TL! | Üstü çizili bin lira, altında dört yüz doksan dokuz. Harika mı? | %50
+REFERANS/FİYAT | O çizili fiyata referans fiyat denir. | REFERANS
+HİÇ SATILMADI? | Bazen ürün o fiyata neredeyse hiç satılmamış olabilir. | HİÇ?
+BEYİN/KIYASLAR | Beyin yeni fiyatı değil, aradaki farkı görür. | FARK
+KAZANÇ/HİSSİ | Ve sana para kazanmışsın gibi hissettirir. | KAZANÇ
+ÖNCE ZAM/SONRA İNDİRİM | Bazı satıcılar kampanya öncesi fiyatı yükseltir. | ZAM
+ÇÖZÜM:/FİYAT GEÇMİŞİ | Çözüm: fiyat geçmişini gösteren araçlarla kontrol et. | GEÇMİŞ
+SENİ KANDIRDI MI? | Sen hiç sahte indirime yakalandın mı? Yorumlara yaz! | ?
+## Sadakat Kartı Puanları
+PUAN KAZAN!/AMA NEYE? | Her alışverişte puan kazanıyorsun. Peki karşılığında ne veriyorsun? | PUAN
+SADAKAT/KAFESİ | Puan seni hep aynı markete bağlar. | SADAKAT
+FİYAT KIYASI/BİTER | Artık başka yerlerde fiyat karşılaştırmazsın. | KIYAS
+VERİLERİN | Üstelik ne aldığın, ne zaman aldığın kaydedilir. | VERİ
+SANA ÖZEL/KAMPANYA | Sana özel kampanyalar bu verilerle hazırlanır. | ÖZEL
+PUAN SİLİNİR | Ve birçok puanın son kullanma tarihi vardır. | SÜRE
+ÇÖZÜM:/PUANA DEĞİL FİYATA | Çözüm: puana değil, toplam fiyata bak. | FİYAT
+KAÇ KARTIN VAR? | Senin cüzdanında kaç sadakat kartı var? Yorumlara yaz! | ?
+## Şu An 12 Kişi Bakıyor
+12 KİŞİ/BAKIYOR! | Otel sitesinde: şu an on iki kişi bu odaya bakıyor. | 12
+SOSYAL/KANIT | Başkaları istiyorsa değerli olmalı diye düşünürsün. | KANIT
+REKABET/HİSSİ | Bir anda o odayı kapmak için yarıştığını hissedersin. | YARIŞ
+SON ODA! | Yanına bir de son oda yazısı eklenir. | SON ODA
+KONTROL/EDEMEZSİN | Bu sayıların nasıl hesaplandığını bilemezsin. | ?
+ACELE/REZERVASYON | Sonuç: karşılaştırmadan hemen rezervasyon. | ACELE
+ÇÖZÜM:/BİRKAÇ SİTE | Çözüm: aynı oteli birkaç farklı sitede karşılaştır. | KIYAS
+SEN DE HIZLANDIN MI? | Bu yazılar seni acele ettirdi mi? Yorumlara yaz! | ?
+## Oyun İçi Para Hilesi
+1000 ELMAS =/KAÇ TL? | Bin elmas aslında kaç lira, hiç hesapladın mı? | ELMAS
+PARA DEĞİL/JETON | Oyunlar gerçek para yerine sanal para kullanır. | JETON
+BAĞ KOPAR | Böylece beynin harcadığın parayla bağı kopar. | BAĞ
+ARTAN/PAKETLER | Paketler, ihtiyacından biraz fazla alacağın şekilde ayarlanır. | PAKET
+ARTAN ELMAS | Elinde kalan artık elmaslar seni tekrar almaya iter. | ARTAN
+ÇOCUKLAR/İÇİN RİSK | Bu tuzak özellikle çocuklar için tehlikeli. | RİSK
+ÇÖZÜM:/TL'YE ÇEVİR | Çözüm: her alımda fiyatı liraya çevir. | TL
+NE KADAR HARCADIN? | Sen oyunlara toplam ne kadar harcadın? Yorumlara yaz! | ?
+## Fast Food Koltuk Hilesi
+O KOLTUKLAR/NEDEN SERT? | Fast food restoranında koltuklar neden hep sert? | KOLTUK
+UZUN OTURMA | Çünkü uzun oturmanı istemiyorlar. | HIZLI
+MASA DEVRİ | Ne kadar hızlı kalkarsan masa o kadar hızlı yeni müşteriye geçer. | DEVİR
+KIRMIZI/SARI | Kırmızı ve sarı renkler de enerji ve acele hissi verir. | RENK
+PARLAK IŞIK | Parlak ışıklar rahatlamanı engeller. | IŞIK
+LÜKS RESTORAN/TERSİ | Lüks restoranlar ise loş ışık ve rahat koltukla seni tutar. | LÜKS
+ÇÖZÜM:/FARKINDA OL | Çözüm: mekânın seni yönlendirdiğinin farkında ol. | FARKINDALIK
+FARK ETTİN Mİ? | Sen bu koltukları hiç fark ettin mi? Yorumlara yaz! | ?
+## Bedava Kelimesinin Gücü
+BEDAVA! | Bedava kelimesini duyunca beynin mantığı bir anlığına kapanır. | BEDAVA
+SIFIR FİYAT/ETKİSİ | Buna sıfır fiyat etkisi denir. | SIFIR
+HEDİYE İÇİN/ALIŞVERİŞ | Hediye çanta için ihtiyacın olmayan kremi alırsın. | HEDİYE
+1 ALANA/1 BEDAVA | Bir alana bir bedava aslında iki ürün satmaktır. | 1+1
+DEĞER Mİ? | Bedava ürünün değerini sorgulamazsın bile. | DEĞER?
+GİZLİ/MALİYET | Bedavanın bedeli çoğu zaman sepetin geri kalanına gizlenir. | MALİYET
+ÇÖZÜM:/HEDİYESİZ ALIR MIYDIN? | Çözüm: hediye olmasa da alır mıydın, kendine sor. | SORU
+SEN DE KANDIN MI? | Sen bedava diye gereksiz bir şey aldın mı? Yorumlara yaz! | ?
+## Taksitin Görünmez Bedeli
+AYDA SADECE/500 TL! | Ayda sadece beş yüz lira! Kulağa çok hafif geliyor, değil mi? | AYLIK
+TOPLAM/NEREDE? | Peki toplam fiyat nerede yazıyor? | TOPLAM
+KÜÇÜK PARÇA | Büyük fiyatı küçük parçalara bölmek acısını azaltır. | PARÇA
+BÜTÇE/ŞİŞER | Birkaç taksit üst üste binince bütçe sessizce şişer. | BÜTÇE
+VADE/FARKI | Bazen taksitli fiyat peşin fiyattan daha yüksektir. | VADE
+GELECEK SEN/ÖDER | Bugünkü sen alır, gelecekteki sen öder. | GELECEK
+ÇÖZÜM:/TOPLAMA BAK | Çözüm: aylığa değil toplam tutara bak. | TOPLAM
+TAKSİTLE Mİ PEŞİN Mİ? | Sen taksitle mi alırsın, peşin mi? Yorumlara yaz! | ?
+## Kartla Daha Çok Harcamak
+NAKİT Mİ/KART MI? | Kartla ödeyince daha mı çok harcıyorsun? | KART
+ÖDEME/ACISI | Nakit verirken paranın gittiğini görür ve hissedersin. | NAKİT
+KART =/HİSSİZ | Kartta ise sadece bir dokunuş var. | DOKUNUŞ
+TEMASSIZ | Temassız ödeme bu hissi neredeyse sıfıra indirir. | TEMASSIZ
+ARAŞTIRMALAR | Birçok araştırma kartla harcamanın arttığını gösteriyor. | ARAŞTIRMA
+AY SONU/SÜRPRİZİ | Sürpriz ise ay sonunda ekstrede gelir. | EKSTRE
+ÇÖZÜM:/HAFTALIK NAKİT | Çözüm: harcamaların için haftalık nakit bütçe dene. | NAKİT
+SEN HANGİSİNİ/KULLANIRSIN? | Sen nakit mi kullanırsın, kart mı? Yorumlara yaz! | ?
+## Abonelik İptal Labirenti
+ÜYE OL:/1 TIK | Üye olmak bir tık. Peki iptal etmek? | 1 TIK
+İPTAL:/LABİRENT | İptal için menü, alt menü, ara sayfa, anket. | LABİRENT
+KARANLIK/TASARIM | Buna karanlık tasarım deniyor. | KARANLIK
+EMİN MİSİN? | Her adımda emin misin diye tekrar soruluyor. | EMİN?
+SON TEKLİF! | Ve son anda sana özel indirim teklifi çıkıyor. | TEKLİF
+VAZGEÇ/YORUL | Amaç yorulup vazgeçmen. | YORGUNLUK
+ÇÖZÜM:/ÖNCE İPTALE BAK | Çözüm: üye olmadan önce nasıl iptal edildiğine bak. | İPTAL
+EN ZOR İPTAL? | Senin iptal ederken en zorlandığın abonelik hangisiydi? Yorumlara yaz! | ?
+## Önceden İşaretli Kutular
+✓ ZATEN/İŞARETLİ | Bilet alırken o kutu zaten işaretliydi, fark ettin mi? | ✓
+SİGORTA/EKSTRA | Seyahat sigortası, öncelikli biniş, ekstra hizmet. | EKSTRA
+VARSAYILAN/GÜCÜ | İnsanlar varsayılan seçeneği çoğu zaman değiştirmez. | VARSAYILAN
+ÜŞENGEÇLİK/HESABI | Şirketler bu üşengeçliği çok iyi hesaplar. | HESAP
+KÜÇÜK/RAKAMLAR | Her biri küçük ama toplamda ciddi bir fark. | +
+SEPET/ŞİŞER | Ödeme sayfasında toplam birden şişer. | TOPLAM
+ÇÖZÜM:/HER KUTUYA BAK | Çözüm: ödemeden önce her kutucuğu tek tek kontrol et. | KONTROL
+SEN DE YAKALANDIN MI? | Sen hiç istemediğin bir hizmete para ödedin mi? Yorumlara yaz! | ?
+## Menü Olarak Al Tuzağı
+MENÜ YAP/SADECE 30 TL | Sadece otuz lira ekle, menü yapalım mı? | MENÜ
+EVET!/OTOMATİK | Çoğumuz düşünmeden evet deriz. | EVET
+İHTİYAÇ/YOKTU | Oysa patates ve içeceğe ihtiyacın yoktu. | İHTİYAÇ
+EN KÂRLI/ÜRÜN | İçecekler genellikle en kârlı ürünler arasındadır. | KÂR
+BOYU BÜYÜT? | Bir de boyunu büyütelim mi sorusu gelir. | BÜYÜK
+FIRSAT/ALGISI | Hepsi sana fırsat gibi sunulur. | FIRSAT
+ÇÖZÜM:/SADECE İSTEDİĞİN | Çözüm: sadece gerçekten istediğini söyle. | SADE
+MENÜ MÜ TEK Mİ? | Sen menü mü alırsın, tek ürün mü? Yorumlara yaz! | ?
+## Sınırlı Süre Ürün
+SADECE/BU SEZON! | Sadece bu sezon! Bu lezzet kaçmaz! | SEZON
+FOMO | Kaçırma korkusu, yani fomo. | FOMO
+NADİR =/DEĞERLİ | Az bulunan şey bize daha değerli görünür. | NADİR
+HER YIL/YİNE GELİR | Ama aynı ürün çoğu zaman her yıl yeniden gelir. | YİNE
+SOSYAL MEDYA/ETKİSİ | Herkes paylaşınca sen de denemek istersin. | PAYLAŞ
+FİYAT/DAHA YÜKSEK | Sezonluk ürünler genelde normalinden pahalıdır. | FİYAT
+ÇÖZÜM:/KAÇARSA KAÇSIN | Çözüm: kaçırırsan ne olur, kendine sor. | SORU
+SEN DENER MİSİN? | Sen sezonluk ürünleri dener misin? Yorumlara yaz! | ?
+## Mağaza Girişi ve Sağa Dönüş
+GİRİŞTE/BOŞLUK NEDEN? | Mağaza girişindeki o boş alan neden orada? | BOŞLUK
+GEÇİŞ/ALANI | Buna geçiş alanı denir; dışarıdan içeriye uyum sağlarsın. | GEÇİŞ
+BURADA/SATILMAZ | Bu alana konan ürünleri çoğu kişi fark etmez bile. | GÖRÜNMEZ
+SAĞA/DÖNERSİN | Ardından birçok insan içgüdüsel olarak sağa döner. | SAĞ
+SAĞ DUVAR/VİTRİN | Mağazalar en dikkat çekici ürünleri oraya koyar. | VİTRİN
+ROTA/HAZIR | Yani yürüyeceğin yol önceden planlanmıştır. | ROTA
+ÇÖZÜM:/ÖNCE SOLA BAK | Çözüm: bir dahaki sefere ilk sola bak. | SOL
+SEN NEREYE/DÖNERSİN? | Sen mağazaya girince ilk nereye dönersin? Yorumlara yaz! | ?
+## Kırmızı İndirim Etiketi
+KIRMIZI =/İNDİRİM? | Kırmızı etiket gördüğünde indirim olduğunu düşünürsün. | KIRMIZI
+RENK/OYUNU | Kırmızı dikkat çeker ve aciliyet hissi verir. | RENK
+FİYAT/AYNI | Bazen etiket kırmızı ama fiyat hiç düşmemiştir. | AYNI
+ALGI/YETER | Sadece indirim algısı satışları artırabilir. | ALGI
+SARI ETİKET | Sarı etiketler de fırsat hissi için kullanılır. | SARI
+GÖZ ÖNCE/RENGİ GÖRÜR | Göz rakamdan önce rengi görür. | GÖZ
+ÇÖZÜM:/RAKAMA BAK | Çözüm: renge değil, rakama ve birim fiyata bak. | RAKAM
+FARK ETTİN Mİ? | Sen kırmızı etikete hemen güvenir misin? Yorumlara yaz! | ?
+## Büyük Paket Daha Ucuz Mu?
+AİLE BOYU/= TASARRUF? | Aile boyu paket her zaman daha mı ucuz? | AİLE BOYU
+HER ZAMAN/DEĞİL | Hayır, bazen küçük paketlerin kilo fiyatı daha düşük. | DEĞİL
+VARSAYIM | Market senin büyük ucuzdur varsayımına güvenir. | VARSAYIM
+İSRAF | Ayrıca büyük paketin bir kısmı genelde israf olur. | İSRAF
+DAHA ÇOK/TÜKETİM | Evde fazla ürün olunca daha hızlı tüketirsin. | TÜKETİM
+STOK/YÜKÜ | Gereksiz stok, bütçende ölü para demek. | STOK
+ÇÖZÜM:/KİLO FİYATI | Çözüm: raf etiketindeki kilo veya litre fiyatını karşılaştır. | KG
+SEN HANGİSİNİ/ALIRSIN? | Sen büyük paket mi alırsın, küçük mü? Yorumlara yaz! | ?
+## Kasa Önü Bağış ve Ek Satış
+POŞET İSTER/MİSİNİZ? | Poşet, kampanya ürünü, puan kartı... Kasada sorular bitmez. | KASA
+SON ADIM/SON SATIŞ | Ödeme anı satıcı için son satış fırsatıdır. | FIRSAT
+HAYIR DEMEK/ZOR | Sıra beklerken ve acele ederken hayır demek zordur. | HAYIR
+KÜÇÜK TUTAR | Teklif edilen şeyler hep küçük tutarlıdır. | KÜÇÜK
+TOPLAMDA/BÜYÜK | Ama yıl boyunca toplandığında ciddi bir rakam eder. | TOPLAM
+ALIŞKANLIK | Bir kere evet dersen alışkanlığa döner. | ALIŞKANLIK
+ÇÖZÜM:/HAZIR CEVAP | Çözüm: kasaya gelmeden hayır cevabını hazırla. | HAYIR
+SEN EVET Mİ DERSİN? | Sen kasadaki tekliflere evet mi dersin? Yorumlara yaz! | ?

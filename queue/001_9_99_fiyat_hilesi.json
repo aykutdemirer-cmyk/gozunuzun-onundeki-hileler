@@ -1,0 +1,151 @@
+{
+ "topic": "9,99 Fiyat Hilesi",
+ "scenes": [
+  {
+   "caption": "10 DEĞİL\n9,99!",
+   "voice": "Neden hiçbir şey on lira değil de dokuz doksan dokuz?",
+   "keyword": "9,99",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "BEYİN SOLDAN\nOKUR",
+   "voice": "Çünkü beynin fiyatı soldan okur ve ilk rakama takılır.",
+   "keyword": "SOL",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "9 ≠ 10",
+   "voice": "Dokuz doksan dokuz sana dokuz gibi gelir, oysa neredeyse on.",
+   "keyword": "ALGI",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "1 KURUŞ\nFARK",
+   "voice": "Aradaki fark sadece bir kuruş ama algıdaki fark devasa.",
+   "keyword": "1 KURUŞ",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "UCUZ HİSSİ",
+   "voice": "Bu numara ürüne indirimdeymiş hissi veriyor.",
+   "keyword": "İNDİRİM?",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "LÜKS MARKALAR\nTERSİNİ YAPAR",
+   "voice": "Lüks markalar ise tam tersini yapar: yuvarlak fiyatla kaliteli görünür.",
+   "keyword": "LÜKS",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nYUKARI YUVARLA",
+   "voice": "Çözüm: her fiyatı kafanda yukarı yuvarla.",
+   "keyword": "YUVARLA",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SEN HANGİSİSİN?",
+   "voice": "Sen bu hileye hiç takıldın mı, yoksa hep fark ettin mi? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "9,99 Fiyat Hilesi 😳 #shorts",
+ "description": "Neden hiçbir şey on lira değil de dokuz doksan dokuz?\n\nÇözüm: her fiyatı kafanda yukarı yuvarla.\n\n💬 Sen bu hileye hiç takıldın mı, yoksa hep fark ettin mi? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

@@ -1,8 +1,9 @@
-name: Telegram Bot
+name: Telegram Bot ve Günlük Video
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/5 * * * *"    # bot mesajları
+    - cron: "47 6 * * *"     # günlük video (~09:47 TR)
   workflow_dispatch:
 
 concurrency:
@@ -19,15 +20,13 @@ jobs:
     env:
       TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
       TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
     steps:
       - uses: actions/checkout@v4
       - name: Mesajları işle
         id: bot
         run: |
-          if [ -z "$GEMINI_API_KEY" ]; then echo "GEMINI_API_KEY eksik"; exit 0; fi
           pip install -q requests
-          python bot.py
+          if [ "${{ github.event.schedule }}" = "47 6 * * *" ]; then python bot.py daily; else python bot.py; fi
 
       - name: Video üret ve gönder
         if: steps.bot.outputs.episodes != ''
@@ -44,4 +43,4 @@ jobs:
         if: always()
         run: |
           git config user.name "shorts-bot"; git config user.email "actions@users.noreply.github.com"
-          git add state episodes 2>/dev/null; git diff --cached --quiet || (git commit -qm "bot: durum güncellendi" && git pull -q --rebase && git push -q)
+          git add -A state episodes queue 2>/dev/null; git diff --cached --quiet || (git commit -qm "bot: durum güncellendi" && git pull -q --rebase && git push -q)

@@ -1,0 +1,151 @@
+{
+ "topic": "Üstü Çizili Fiyat",
+ "scenes": [
+  {
+   "caption": "1000 TL\n499 TL!",
+   "voice": "Üstü çizili bin lira, altında dört yüz doksan dokuz. Harika mı?",
+   "keyword": "%50",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "REFERANS\nFİYAT",
+   "voice": "O çizili fiyata referans fiyat denir.",
+   "keyword": "REFERANS",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "HİÇ SATILMADI?",
+   "voice": "Bazen ürün o fiyata neredeyse hiç satılmamış olabilir.",
+   "keyword": "HİÇ?",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "BEYİN\nKIYASLAR",
+   "voice": "Beyin yeni fiyatı değil, aradaki farkı görür.",
+   "keyword": "FARK",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "KAZANÇ\nHİSSİ",
+   "voice": "Ve sana para kazanmışsın gibi hissettirir.",
+   "keyword": "KAZANÇ",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÖNCE ZAM\nSONRA İNDİRİM",
+   "voice": "Bazı satıcılar kampanya öncesi fiyatı yükseltir.",
+   "keyword": "ZAM",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nFİYAT GEÇMİŞİ",
+   "voice": "Çözüm: fiyat geçmişini gösteren araçlarla kontrol et.",
+   "keyword": "GEÇMİŞ",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SENİ KANDIRDI MI?",
+   "voice": "Sen hiç sahte indirime yakalandın mı? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Üstü Çizili Fiyat 😳 #shorts",
+ "description": "Üstü çizili bin lira, altında dört yüz doksan dokuz. Harika mı?\n\nÇözüm: fiyat geçmişini gösteren araçlarla kontrol et.\n\n💬 Sen hiç sahte indirime yakalandın mı? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

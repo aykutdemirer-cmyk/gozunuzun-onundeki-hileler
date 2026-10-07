@@ -1,0 +1,151 @@
+{
+ "topic": "Geri Sayım Sayacı Hilesi",
+ "scenes": [
+  {
+   "caption": "00:09:59",
+   "voice": "Kampanya bitmek üzere, sayaç geri sayıyor!",
+   "keyword": "SAYAÇ",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "PANİK MODU",
+   "voice": "Bu sayaç seni panik moduna sokmak için tasarlandı.",
+   "keyword": "PANİK",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SAYFAYI YENİLE",
+   "voice": "Sayfayı yenilediğinde bazen sayaç baştan başlar.",
+   "keyword": "YENİLE",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ACİLİYET\nYARATMAK",
+   "voice": "Amaç sahte bir aciliyet yaratmak.",
+   "keyword": "ACİL",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ACELE =\nHATA",
+   "voice": "Acele eden beyin fiyatı karşılaştırmaz.",
+   "keyword": "HATA",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "YARIN\nYİNE İNDİRİM",
+   "voice": "Ve çoğu zaman ertesi gün aynı kampanya yine karşına çıkar.",
+   "keyword": "YARIN",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nSAYACI YOK SAY",
+   "voice": "Çözüm: sayaca değil, ürünün gerçek fiyat geçmişine bak.",
+   "keyword": "GEÇMİŞ",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SAYAÇ SENİ\nETKİLER Mİ?",
+   "voice": "Geri sayım sayacı seni acele ettirir mi? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Geri Sayım Sayacı Hilesi 😳 #shorts",
+ "description": "Kampanya bitmek üzere, sayaç geri sayıyor!\n\nÇözüm: sayaca değil, ürünün gerçek fiyat geçmişine bak.\n\n💬 Geri sayım sayacı seni acele ettirir mi? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

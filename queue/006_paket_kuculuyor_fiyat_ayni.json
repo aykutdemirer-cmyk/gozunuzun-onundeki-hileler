@@ -1,0 +1,151 @@
+{
+ "topic": "Paket Küçülüyor Fiyat Aynı",
+ "scenes": [
+  {
+   "caption": "AYNI FİYAT\nDAHA AZ ÜRÜN",
+   "voice": "Fiyat aynı, paket aynı, ama içindeki ürün azalmış.",
+   "keyword": "GRAM",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SHRINKFLATION",
+   "voice": "Buna küçülen enflasyon deniyor.",
+   "keyword": "KÜÇÜLME",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "100 G → 85 G",
+   "voice": "Yüz gramlık paket sessizce seksen beş grama iniyor.",
+   "keyword": "85 G",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "AMBALAJ\nAYNI KALIR",
+   "voice": "Ambalajın boyu ve tasarımı neredeyse hiç değişmiyor.",
+   "keyword": "AMBALAJ",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ZAM YOK\nGİBİ",
+   "voice": "Raf etiketine bakınca zam yokmuş gibi görünüyor.",
+   "keyword": "ZAM?",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "KİLO FİYATI",
+   "voice": "Ama kilo fiyatına baktığında gerçeği görürsün.",
+   "keyword": "KG",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nBİRİM FİYAT",
+   "voice": "Çözüm: etiketteki birim fiyatı karşılaştır.",
+   "keyword": "BİRİM",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "FARK ETTİN Mİ?",
+   "voice": "Sen en son hangi üründe bunu fark ettin? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Paket Küçülüyor Fiyat Aynı 😳 #shorts",
+ "description": "Fiyat aynı, paket aynı, ama içindeki ürün azalmış.\n\nÇözüm: etiketteki birim fiyatı karşılaştır.\n\n💬 Sen en son hangi üründe bunu fark ettin? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

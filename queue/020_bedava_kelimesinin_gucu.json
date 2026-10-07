@@ -1,0 +1,151 @@
+{
+ "topic": "Bedava Kelimesinin Gücü",
+ "scenes": [
+  {
+   "caption": "BEDAVA!",
+   "voice": "Bedava kelimesini duyunca beynin mantığı bir anlığına kapanır.",
+   "keyword": "BEDAVA",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SIFIR FİYAT\nETKİSİ",
+   "voice": "Buna sıfır fiyat etkisi denir.",
+   "keyword": "SIFIR",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "HEDİYE İÇİN\nALIŞVERİŞ",
+   "voice": "Hediye çanta için ihtiyacın olmayan kremi alırsın.",
+   "keyword": "HEDİYE",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "1 ALANA\n1 BEDAVA",
+   "voice": "Bir alana bir bedava aslında iki ürün satmaktır.",
+   "keyword": "1+1",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "DEĞER Mİ?",
+   "voice": "Bedava ürünün değerini sorgulamazsın bile.",
+   "keyword": "DEĞER?",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "GİZLİ\nMALİYET",
+   "voice": "Bedavanın bedeli çoğu zaman sepetin geri kalanına gizlenir.",
+   "keyword": "MALİYET",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nHEDİYESİZ ALIR MIYDIN?",
+   "voice": "Çözüm: hediye olmasa da alır mıydın, kendine sor.",
+   "keyword": "SORU",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SEN DE KANDIN MI?",
+   "voice": "Sen bedava diye gereksiz bir şey aldın mı? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Bedava Kelimesinin Gücü 😳 #shorts",
+ "description": "Bedava kelimesini duyunca beynin mantığı bir anlığına kapanır.\n\nÇözüm: hediye olmasa da alır mıydın, kendine sor.\n\n💬 Sen bedava diye gereksiz bir şey aldın mı? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

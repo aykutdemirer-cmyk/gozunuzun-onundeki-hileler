@@ -1,0 +1,151 @@
+{
+ "topic": "Orta Boy Kahve Tuzağı",
+ "scenes": [
+  {
+   "caption": "NEDEN HEP\nORTA BOY?",
+   "voice": "Kafede neden hep orta boy kahve alıyorsun?",
+   "keyword": "ORTA",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "3 BOY\n1 TUZAK",
+   "voice": "Çünkü üç boy seçeneğinden biri sadece seni yönlendirmek için var.",
+   "keyword": "TUZAK",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "KÜÇÜK\nÇOK KÜÇÜK",
+   "voice": "Küçük boy bilerek küçük ve neredeyse aynı fiyatta tutulur.",
+   "keyword": "KÜÇÜK",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "BÜYÜK\nÇOK PAHALI",
+   "voice": "Büyük boy ise gözünü korkutacak kadar pahalı.",
+   "keyword": "BÜYÜK",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ORTA =\nAKILLI SEÇİM?",
+   "voice": "Ortadaki sana en akıllı seçim gibi görünür.",
+   "keyword": "ORTA",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "YEM SEÇENEK",
+   "voice": "Buna yem seçenek etkisi denir.",
+   "keyword": "YEM",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nGERÇEKTEN NE KADAR?",
+   "voice": "Çözüm: ne kadar içmek istediğini düşün, boyuta değil.",
+   "keyword": "İHTİYAÇ",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "HANGİ BOY?",
+   "voice": "Sen kahveni hangi boy alırsın? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Orta Boy Kahve Tuzağı 😳 #shorts",
+ "description": "Kafede neden hep orta boy kahve alıyorsun?\n\nÇözüm: ne kadar içmek istediğini düşün, boyuta değil.\n\n💬 Sen kahveni hangi boy alırsın? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

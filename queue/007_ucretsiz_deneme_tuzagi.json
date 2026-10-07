@@ -1,0 +1,151 @@
+{
+ "topic": "Ücretsiz Deneme Tuzağı",
+ "scenes": [
+  {
+   "caption": "BEDAVA MI\nGERÇEKTEN?",
+   "voice": "Otuz gün ücretsiz deneme. Gerçekten bedava mı?",
+   "keyword": "BEDAVA",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "KART BİLGİSİ\nİSTER",
+   "voice": "Neden ücretsiz bir şey için kart bilgini istiyorlar?",
+   "keyword": "KART",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "UNUTACAĞINI\nBİLİYORLAR",
+   "voice": "Çünkü iptal etmeyi unutacağını biliyorlar.",
+   "keyword": "UNUTMA",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "OTOMATİK\nYENİLEME",
+   "voice": "Deneme bitince ücret sessizce kartından çekilir.",
+   "keyword": "OTOMATİK",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "İPTAL\nZOR",
+   "voice": "İptal butonu ise çoğu zaman menülerin derinliklerine saklanır.",
+   "keyword": "İPTAL",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "AY AY\nBİRİKİR",
+   "voice": "Kullanmadığın abonelikler ay ay birikir.",
+   "keyword": "BİRİKİM",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nHEMEN HATIRLATICI",
+   "voice": "Çözüm: deneme başlar başlamaz iptal tarihi için hatırlatıcı kur.",
+   "keyword": "ALARM",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "KAÇ ABONELİĞİN VAR?",
+   "voice": "Sen kaç aboneliğe para ödediğini biliyor musun? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Ücretsiz Deneme Tuzağı 😳 #shorts",
+ "description": "Otuz gün ücretsiz deneme. Gerçekten bedava mı?\n\nÇözüm: deneme başlar başlamaz iptal tarihi için hatırlatıcı kur.\n\n💬 Sen kaç aboneliğe para ödediğini biliyor musun? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

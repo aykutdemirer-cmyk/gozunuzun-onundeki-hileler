@@ -1,0 +1,151 @@
+{
+ "topic": "Taksitin Görünmez Bedeli",
+ "scenes": [
+  {
+   "caption": "AYDA SADECE\n500 TL!",
+   "voice": "Ayda sadece beş yüz lira! Kulağa çok hafif geliyor, değil mi?",
+   "keyword": "AYLIK",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "TOPLAM\nNEREDE?",
+   "voice": "Peki toplam fiyat nerede yazıyor?",
+   "keyword": "TOPLAM",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "KÜÇÜK PARÇA",
+   "voice": "Büyük fiyatı küçük parçalara bölmek acısını azaltır.",
+   "keyword": "PARÇA",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "BÜTÇE\nŞİŞER",
+   "voice": "Birkaç taksit üst üste binince bütçe sessizce şişer.",
+   "keyword": "BÜTÇE",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "VADE\nFARKI",
+   "voice": "Bazen taksitli fiyat peşin fiyattan daha yüksektir.",
+   "keyword": "VADE",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "GELECEK SEN\nÖDER",
+   "voice": "Bugünkü sen alır, gelecekteki sen öder.",
+   "keyword": "GELECEK",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nTOPLAMA BAK",
+   "voice": "Çözüm: aylığa değil toplam tutara bak.",
+   "keyword": "TOPLAM",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "TAKSİTLE Mİ PEŞİN Mİ?",
+   "voice": "Sen taksitle mi alırsın, peşin mi? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Taksitin Görünmez Bedeli 😳 #shorts",
+ "description": "Ayda sadece beş yüz lira! Kulağa çok hafif geliyor, değil mi?\n\nÇözüm: aylığa değil toplam tutara bak.\n\n💬 Sen taksitle mi alırsın, peşin mi? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

@@ -1,0 +1,151 @@
+{
+ "topic": "Büyük Paket Daha Ucuz Mu?",
+ "scenes": [
+  {
+   "caption": "AİLE BOYU\n= TASARRUF?",
+   "voice": "Aile boyu paket her zaman daha mı ucuz?",
+   "keyword": "AİLE BOYU",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "HER ZAMAN\nDEĞİL",
+   "voice": "Hayır, bazen küçük paketlerin kilo fiyatı daha düşük.",
+   "keyword": "DEĞİL",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "VARSAYIM",
+   "voice": "Market senin büyük ucuzdur varsayımına güvenir.",
+   "keyword": "VARSAYIM",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "İSRAF",
+   "voice": "Ayrıca büyük paketin bir kısmı genelde israf olur.",
+   "keyword": "İSRAF",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "DAHA ÇOK\nTÜKETİM",
+   "voice": "Evde fazla ürün olunca daha hızlı tüketirsin.",
+   "keyword": "TÜKETİM",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "STOK\nYÜKÜ",
+   "voice": "Gereksiz stok, bütçende ölü para demek.",
+   "keyword": "STOK",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nKİLO FİYATI",
+   "voice": "Çözüm: raf etiketindeki kilo veya litre fiyatını karşılaştır.",
+   "keyword": "KG",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SEN HANGİSİNİ\nALIRSIN?",
+   "voice": "Sen büyük paket mi alırsın, küçük mü? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Büyük Paket Daha Ucuz Mu? 😳 #shorts",
+ "description": "Aile boyu paket her zaman daha mı ucuz?\n\nÇözüm: raf etiketindeki kilo veya litre fiyatını karşılaştır.\n\n💬 Sen büyük paket mi alırsın, küçük mü? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}

@@ -1,0 +1,151 @@
+{
+ "topic": "Kırmızı İndirim Etiketi",
+ "scenes": [
+  {
+   "caption": "KIRMIZI =\nİNDİRİM?",
+   "voice": "Kırmızı etiket gördüğünde indirim olduğunu düşünürsün.",
+   "keyword": "KIRMIZI",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "RENK\nOYUNU",
+   "voice": "Kırmızı dikkat çeker ve aciliyet hissi verir.",
+   "keyword": "RENK",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "FİYAT\nAYNI",
+   "voice": "Bazen etiket kırmızı ama fiyat hiç düşmemiştir.",
+   "keyword": "AYNI",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ALGI\nYETER",
+   "voice": "Sadece indirim algısı satışları artırabilir.",
+   "keyword": "ALGI",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "SARI ETİKET",
+   "voice": "Sarı etiketler de fırsat hissi için kullanılır.",
+   "keyword": "SARI",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "GÖZ ÖNCE\nRENGİ GÖRÜR",
+   "voice": "Göz rakamdan önce rengi görür.",
+   "keyword": "GÖZ",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "ÇÖZÜM:\nRAKAMA BAK",
+   "voice": "Çözüm: renge değil, rakama ve birim fiyata bak.",
+   "keyword": "RAKAM",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "keyword"
+  },
+  {
+   "caption": "FARK ETTİN Mİ?",
+   "voice": "Sen kırmızı etikete hemen güvenir misin? Yorumlara yaz!",
+   "keyword": "?",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "keyword"
+  }
+ ],
+ "title": "Kırmızı İndirim Etiketi 😳 #shorts",
+ "description": "Kırmızı etiket gördüğünde indirim olduğunu düşünürsün.\n\nÇözüm: renge değil, rakama ve birim fiyata bak.\n\n💬 Sen kırmızı etikete hemen güvenir misin? Yorumlara yaz!\n\n🔔 Gözünüzün Önündeki Hileler serisi için abone ol!\n\n#shorts #tasarruf #pazarlama #psikoloji #tüketici #ilginçbilgiler #gözünüzünönündekihileler"
+}
