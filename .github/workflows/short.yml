@@ -1,0 +1,56 @@
+name: Shorts Üret
+
+on:
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: "Konu (boş bırakıp 'episode' doldurursan hazır bölüm render edilir)"
+        required: false
+      episode:
+        description: "Hazır bölüm dosyası (örn. episodes/01_ekmek_sut.json)"
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -q pillow edge-tts imageio-ffmpeg requests
+
+      - name: Senaryo yaz
+        id: ep
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TOPIC: ${{ inputs.topic }}
+          EPISODE: ${{ inputs.episode }}
+        run: |
+          if [ -n "$EPISODE" ]; then F="$EPISODE"; else
+            F="episodes/$(date +%Y%m%d_%H%M).json"
+            python write_script.py "$TOPIC" "$F"
+          fi
+          echo "file=$F" >> "$GITHUB_OUTPUT"
+
+      - name: Videoyu render et
+        run: python render.py "${{ steps.ep.outputs.file }}" short.mp4
+
+      - name: Telegram'a gönder
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python send_telegram.py short.mp4 "${{ steps.ep.outputs.file }}"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: short
+          path: short.mp4
+
+      - name: Senaryoyu repoya kaydet
+        run: |
+          git config user.name "shorts-bot"; git config user.email "actions@users.noreply.github.com"
+          git add episodes && git commit -m "Yeni bölüm: ${{ steps.ep.outputs.file }}" && git push || true

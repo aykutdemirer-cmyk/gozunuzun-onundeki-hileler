@@ -1,0 +1,159 @@
+{
+ "title": "Ekmek ve Süt Neden Hep En Arkada? 🛒 #shorts",
+ "scenes": [
+  {
+   "caption": "SADECE EKMEK?\n400 TL!",
+   "voice": "Sadece ekmek almaya girdin, 400 lira ödeyip çıktın. Tesadüf mü sandın?",
+   "colors": [
+    [
+     180,
+     20,
+     30
+    ],
+    [
+     40,
+     0,
+     10
+    ]
+   ],
+   "graphic": "receipt"
+  },
+  {
+   "caption": "EN ARKA\nKÖŞE",
+   "voice": "Hiç dikkat ettin mi? Ekmek ve süt hep marketin en arka köşesinde.",
+   "colors": [
+    [
+     20,
+     30,
+     60
+    ],
+    [
+     5,
+     5,
+     20
+    ]
+   ],
+   "graphic": "map"
+  },
+  {
+   "caption": "HER REYONDAN\nGEÇ",
+   "voice": "Çünkü en çok aldığın şeye ulaşmak için bütün reyonları tek tek geçmek zorundasın.",
+   "colors": [
+    [
+     60,
+     20,
+     90
+    ],
+    [
+     15,
+     5,
+     30
+    ]
+   ],
+   "graphic": "aisles"
+  },
+  {
+   "caption": "GÖZ HİZASI\n= PAHALI",
+   "voice": "Ve her reyonda göz hizasına en pahalı ürünler, ayak hizasına ucuzlar dizilmiş.",
+   "colors": [
+    [
+     20,
+     80,
+     50
+    ],
+    [
+     5,
+     25,
+     15
+    ]
+   ],
+   "graphic": "shelf"
+  },
+  {
+   "caption": "DEV\nARABALAR",
+   "voice": "Peki o devasa arabalar? Onlar da bilinçli.",
+   "colors": [
+    [
+     200,
+     90,
+     0
+    ],
+    [
+     60,
+     20,
+     0
+    ]
+   ],
+   "graphic": "cart_big"
+  },
+  {
+   "caption": "BOŞ ARABA\n= \"EKSİKSİN\"",
+   "voice": "Boş bir araba beyne 'eksiksin' der. Pazarlamacılar, araba büyüdükçe insanların daha fazla ürün aldığını söylüyor.",
+   "colors": [
+    [
+     150,
+     0,
+     60
+    ],
+    [
+     40,
+     0,
+     20
+    ]
+   ],
+   "graphic": "cart_fill"
+  },
+  {
+   "caption": "RESMİ SEBEP:\nLOJİSTİK?",
+   "voice": "Market bunu soğuk zincir ve teslimat kolaylığı diye açıklar. Ama sonuç değişmez: daha çok yürür, daha çok alırsın.",
+   "colors": [
+    [
+     0,
+     70,
+     120
+    ],
+    [
+     0,
+     15,
+     35
+    ]
+   ],
+   "graphic": "fridge"
+  },
+  {
+   "caption": "LİSTE ✓\nSEPET ✓\nARABA ✗",
+   "voice": "Çözüm basit: listeyle gir, sepet al, arabayı unut.",
+   "colors": [
+    [
+     10,
+     110,
+     60
+    ],
+    [
+     0,
+     30,
+     15
+    ]
+   ],
+   "graphic": "list"
+  },
+  {
+   "caption": "LİSTECİ Mİ?\nSEPET DOLDURAN MI?",
+   "voice": "Söyle bakalım: Sen listeyle mi girersin, yoksa 'bir bakayım' deyip arabayı mı doldurursun? Yorumlara yaz!",
+   "colors": [
+    [
+     230,
+     190,
+     0
+    ],
+    [
+     120,
+     40,
+     0
+    ]
+   ],
+   "graphic": "split"
+  }
+ ],
+ "description": "Süpermarketler en çok aldığın ürünlere ulaşmak için bütün reyonları geçmeni sağlıyor. Çözüm: listeyle gir, sepet al!\n\nSen listeyle mi girersin, arabayı mı doldurursun? Yorumlara yaz!\n\n#shorts #market #tasarruf #pazarlama #psikoloji"
+}
