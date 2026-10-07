@@ -41,20 +41,21 @@ def main():
     else:
         os.makedirs("state", exist_ok=True)
         S = json.load(open(STATE_F)) if os.path.exists(STATE_F) else {"offset": 0}
-        tg("deleteWebhook")
+        tg("deleteWebhook"); want_menu = False
         for u in tg("getUpdates", offset=S["offset"], timeout=0).get("result", []):
             S["offset"] = u["update_id"] + 1
             msg, cb = u.get("message"), u.get("callback_query")
             chat = str((msg or {}).get("chat", {}).get("id") or (cb or {}).get("message", {}).get("chat", {}).get("id") or "")
             if chat != CHAT: continue
-            if msg: menu(); continue
+            if msg: want_menu = True; continue
             if not cb: continue
             tg("answerCallbackQuery", callback_query_id=cb["id"])
             d, q = cb.get("data", ""), queue()
             f = f"queue/{d[3:]}" if d.startswith("ep:") else (__import__("random").choice(q) if q and d == "rnd" else None)
             if f and os.path.exists(f):
                 say(f"🎬 \"{topic(f)}\" hazırlanıyor! Birkaç dakika içinde burada."); out.append(take(f))
-            else: say("Bu bölüm zaten üretildi ya da bulunamadı."); menu()
+            else: say("Bu bölüm zaten üretildi ya da bulunamadı."); want_menu = True
+        if want_menu: menu()
         json.dump(S, open(STATE_F, "w"))
     open(os.environ.get("GITHUB_OUTPUT", os.devnull), "a").write(f"episodes={' '.join(out)}\n")
     if out: low_warning()
