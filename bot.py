@@ -1,7 +1,7 @@
 """Telegram botu (yapay zekâsız). Mesaj gelince kuyruktaki sıradaki konuları buton olarak sunar; seçileni üretime alır.
 Kullanım: python bot.py         -> mesajları işler
           python bot.py daily   -> günlük: kuyruğun ilk bölümünü üretime alır"""
-import os, sys, json, glob, shutil, requests
+import os, sys, json, glob, shutil, time, requests
 
 TOKEN, CHAT = os.environ["TELEGRAM_BOT_TOKEN"], str(os.environ["TELEGRAM_CHAT_ID"])
 STATE_F, LOW = "state/bot.json", 5
@@ -41,22 +41,30 @@ def main():
     else:
         os.makedirs("state", exist_ok=True)
         S = json.load(open(STATE_F)) if os.path.exists(STATE_F) else {"offset": 0}
-        tg("deleteWebhook"); want_menu = False
-        for u in tg("getUpdates", offset=S["offset"], timeout=0).get("result", []):
-            S["offset"] = u["update_id"] + 1
-            msg, cb = u.get("message"), u.get("callback_query")
-            chat = str((msg or {}).get("chat", {}).get("id") or (cb or {}).get("message", {}).get("chat", {}).get("id") or "")
-            if chat != CHAT: continue
-            if msg: want_menu = True; continue
-            if not cb: continue
-            tg("answerCallbackQuery", callback_query_id=cb["id"])
-            d, q = cb.get("data", ""), queue()
-            f = f"queue/{d[3:]}" if d.startswith("ep:") else (__import__("random").choice(q) if q and d == "rnd" else None)
-            if f and os.path.exists(f):
-                say(f"🎬 \"{topic(f)}\" hazırlanıyor! Birkaç dakika içinde burada."); out.append(take(f))
-            else: say("Bu bölüm zaten üretildi ya da bulunamadı."); want_menu = True
-        if want_menu: menu()
-        json.dump(S, open(STATE_F, "w"))
+        tg("deleteWebhook")
+        # GitHub zamanlayıcısı ~20 dk'da bir tetiklendiği için her çalıştırmada ~18 dk sürekli dinle;
+        # video istenirse hemen çık ki render başlasın.
+        end = time.time() + int(os.getenv("LISTEN_SECONDS", "1080"))
+        while time.time() < end and not out:
+            want_menu = False
+            wait = max(0, min(25, int(end - time.time())))
+            try: upd = tg("getUpdates", offset=S["offset"], timeout=wait).get("result", [])
+            except Exception: time.sleep(3); continue
+            for u in upd:
+                S["offset"] = u["update_id"] + 1
+                msg, cb = u.get("message"), u.get("callback_query")
+                chat = str((msg or {}).get("chat", {}).get("id") or (cb or {}).get("message", {}).get("chat", {}).get("id") or "")
+                if chat != CHAT: continue
+                if msg: want_menu = True; continue
+                if not cb: continue
+                tg("answerCallbackQuery", callback_query_id=cb["id"])
+                d, q = cb.get("data", ""), queue()
+                f = f"queue/{d[3:]}" if d.startswith("ep:") else (__import__("random").choice(q) if q and d == "rnd" else None)
+                if f and os.path.exists(f):
+                    say(f"🎬 \"{topic(f)}\" hazırlanıyor! 2-3 dakika içinde burada."); out.append(take(f))
+                else: say("Bu bölüm zaten üretildi ya da bulunamadı."); want_menu = True
+            if want_menu and not out: menu()
+            json.dump(S, open(STATE_F, "w"))
     open(os.environ.get("GITHUB_OUTPUT", os.devnull), "a").write(f"episodes={' '.join(out)}\n")
     if out: low_warning()
     print(len(out), "bölüm üretime alındı")
