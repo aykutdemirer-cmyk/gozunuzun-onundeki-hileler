@@ -11,16 +11,26 @@ B = os.getenv("FONT_BOLD", "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf
 f = lambda p, s: ImageFont.truetype(p, s)
 
 WORDS = {}
+async def tts_one(i, text):
+    try: c = edge_tts.Communicate(text, VOICE, rate=RATE, boundary="WordBoundary")
+    except TypeError: c = edge_tts.Communicate(text, VOICE, rate=RATE)
+    ws, buf = [], bytearray()
+    async for ch in c.stream():
+        if ch["type"] == "audio": buf += ch["data"]
+        elif ch["type"] == "WordBoundary": ws.append((ch["offset"] / 1e7, ch["text"]))
+    if not buf: raise RuntimeError("boş ses")
+    open(os.path.join(A, f"s{i}.mp3"), "wb").write(buf); WORDS[i] = ws
+
 async def tts():
+    # Ses servisi ara sıra geçici 403/bağlantı hatası verir: artan beklemeyle tekrar dene
     for i, sc in enumerate(EP["scenes"]):
-        try: c = edge_tts.Communicate(sc["voice"], VOICE, rate=RATE, boundary="WordBoundary")
-        except TypeError: c = edge_tts.Communicate(sc["voice"], VOICE, rate=RATE)
-        ws = []
-        with open(os.path.join(A, f"s{i}.mp3"), "wb") as fh:
-            async for ch in c.stream():
-                if ch["type"] == "audio": fh.write(ch["data"])
-                elif ch["type"] == "WordBoundary": ws.append((ch["offset"] / 1e7, ch["text"]))
-        WORDS[i] = ws
+        for k in range(8):
+            try: await tts_one(i, sc["voice"]); break
+            except Exception as e:
+                if k == 7: raise
+                w = min(15 * 2 ** k, 180); print(f"sahne {i+1} ses hatası ({e.__class__.__name__}), {w}s sonra tekrar", flush=True)
+                await asyncio.sleep(w)
+        await asyncio.sleep(0.5)
 asyncio.run(tts())
 
 GAP = 0.08
